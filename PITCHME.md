@@ -1,4 +1,4 @@
----?image=assets/img/road.jpg&position=left&size=45% auto
+---?image=assets/img/road.jpg&position=left&size=45% 100%
 
 @snap[east text-center]
 # Retos
