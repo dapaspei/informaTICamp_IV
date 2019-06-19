@@ -7,7 +7,7 @@
 
 ---?image=assets/img/road.jpg&position=right&size=45% 100%
 
-@snap[south-west list-content-concise span-60]
+@snap[south-west list-content-concise span-50]
 @ol[](false)
 - Lorem ipsum dolor sit amet
 - Consectetur adipiscing elit
