@@ -1,10 +1,11 @@
 
 @snap[west snap-50]
 ![Camino](assets/img/road.jpg)
-@snapend
-
+@snapedn 
+@snap[east snap-50 text-center]
 # Retos
 #### un camino para mejorar las habilidades
+@snapend
 
 ---
 
@@ -35,29 +36,22 @@ Aprobé en 2009
 ---
 
 # ¿Cómo? 
-<style>
-    .my-image {
-        background: img/challenge.png;
-        border: none;
-        box-shadow: none;
-        width: auto;
-        height: auto;
-    }
-</style>
 
-Hello
 
+---
 
 # ¿Qué?
 
-<section data-background-image="img/what.png">
-    Hellooooooou
-</section>
 
+---
 
 # ¿Dónde?
 
+---
 
+@fa[quote-left](Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por medio de ejemplos. Séneca)
+
+---
 # Imágenes y reconociminetos
 - [Disclaimer](https://pixabay.com/es/illustrations/seguridad-cibernética-1923446/)
 - 
