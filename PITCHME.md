@@ -7,7 +7,7 @@
 
 ---
 
-@snap[west midpoint]
+@snap[west]
 ![Road](assets/img/road.jpg)
 @snapend
 
