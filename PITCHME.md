@@ -1,6 +1,6 @@
 ---?image=assets/img/road.jpg&position=left&size=45% 100%
 
-@snap[east text-center]
+@snap[east span-60 text-center]
 # Retos
 #### un camino para mejorar las habilidades
 @snapend
@@ -8,12 +8,11 @@
 ---
 
 @snap[west]
-![Road](assets/img/road.jpg)
+![Road](assets/img/disclaimer.jpg)
 @snapend
 
 @snap[east span-60]
 # Disclaimer
-![bg cover](img/disclaimer.png)
 - Todo lo que vais a ver y oír es fruto de la propia experiencia del que habla.
 - Si hay algo que no acabas de entender, por favor, pregúntalo!
 - Lo que se va a decir aquí, no tiene por qué funcionarte a tí, ¿o si? 
