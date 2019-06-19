@@ -1,6 +1,6 @@
----?image=assets/img/road.jpg&position=left&size=55% 100%
+---?image=assets/img/road.jpg&position=left&size=45% auto
 
-@snap[east snap-50 text-center]
+@snap[east text-center]
 # Retos
 #### un camino para mejorar las habilidades
 @snapend
