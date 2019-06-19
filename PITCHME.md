@@ -24,9 +24,10 @@
 ---
 
 # Gracias
-Por vuestra atención
-Por vuestros comentarios
-Por vuestras críticas
+
+- Por vuestra atención
+- Por vuestros comentarios
+- Por vuestras críticas (constructivas)
 ...
 
 ---
@@ -59,5 +60,8 @@ Séneca
 
 ---
 # Imágenes y reconociminetos
+
+@snap[]
+- [Road](https://pixabay.com/photos/woodland-road-falling-leaf-natural-656969/)
 - [Disclaimer](https://pixabay.com/es/illustrations/seguridad-cibernética-1923446/)
 - 
