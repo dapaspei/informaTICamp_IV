@@ -58,7 +58,9 @@ Aprender
 @endsnap
 
 Note: 
-Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
+Lo que se estudia se olvida.
+Lo que queremos son buenos aprendices, no buenos estudiantes.
+Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---
 
