@@ -1,0 +1,12 @@
+# Layout
+
+# Look-and-Feel
+#logo : assets/images/logo.png
+theme : night
+theme-margins    : [ "0", "15px" ]
+#theme-override : assets/css/PITCHME.css
+highlight : ir-black
+
+# Behavior
+transition : none
+published : true
