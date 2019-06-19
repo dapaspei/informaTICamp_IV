@@ -5,7 +5,7 @@
 #### un camino para mejorar las habilidades
 @snapend
 
----?image=assets/img/disclaimer.png&position=right&size=45% 100%
+---?image=assets/img/disclaimer.png&position=right&size=35% 60%
 
 @snap[north-west]
 # @size[0.6em](Disclaimer)
