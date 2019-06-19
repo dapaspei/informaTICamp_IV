@@ -7,6 +7,23 @@
 
 ---?image=assets/img/road.jpg&position=right&size=45% 100%
 
+@snap[south-west list-content-concise span-60]
+@ol[](false)
+- Lorem ipsum dolor sit amet
+- Consectetur adipiscing elit
+- Sed do eiusmod tempor
+- Ut enim ad minim veniam
+- Duis aute irure dolor in
+- Excepteur sint occaecat
+- Cupidatat non proident
+- Sunt in culpa qui officia
+@olend
+<br><br>
+@snapend
+
+
+---?image=assets/img/road.jpg&position=right&size=45% 100%
+
 @snap[west span-50 text-left]
 # @size[0.6em](Disclaimer)
 
@@ -19,6 +36,7 @@
 - @size[0.6em](No intenten hacerlo sin la ayuda de un compañero/a.)
 
 @snapend
+
 
 ---
 
