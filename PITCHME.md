@@ -64,6 +64,8 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---
 
+# Enseñar no es meter información a la gente, es extraer sus potencialidades (capacidades?)
+
 ---
 
 @snap[west span-50]
