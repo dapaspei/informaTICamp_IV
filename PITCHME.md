@@ -7,7 +7,7 @@
 
 ---?image=assets/img/road.jpg&position=right&size=45% 100%
 
-@snap[west span-80 text-left]
+@snap[west span-50 text-left]
 # @size[0.6em](Disclaimer)
 
 - @size[0.6em](Todo lo que vais a ver y oír es fruto de la propia experiencia del que habla.)
