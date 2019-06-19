@@ -11,8 +11,11 @@
 # @size[0.6em](Disclaimer)
 
 - @size[0.6em](Todo lo que vais a ver y oír es fruto de la propia experiencia del que habla.)
+
 - @size[0.6em](Si hay algo que no acabas de entender, por favor, pregúntalo!)
+
 - @size[0.6em](Lo que se va a decir aquí, no tiene por qué funcionarte a tí, ¿o si?)
+
 - @size[0.6em](No intenten hacerlo sin la ayuda de un compañero/a.)
 
 @snapend
