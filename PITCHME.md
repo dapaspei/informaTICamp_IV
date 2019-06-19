@@ -7,6 +7,10 @@
 
 ---?image=assets/img/disclaimer.png&position=right&size=45% 100%
 
+@snap[north-west]
+# @size[0.6em](Disclaimer)
+@snapend
+
 @snap[south-west list-content-concise span-50]
 @ol[](false)
 - @size[0.6em](Todo lo que vais a ver y oír es fruto de la propia experiencia del que habla.)
