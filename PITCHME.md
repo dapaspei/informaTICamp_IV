@@ -1,7 +1,7 @@
 
 @snap[west snap-50]
 ![Camino](assets/img/road.jpg)
-@snapedn 
+@snapend 
 @snap[east snap-50 text-center]
 # Retos
 #### un camino para mejorar las habilidades
@@ -49,7 +49,8 @@ Aprobé en 2009
 
 ---
 
-@fa[quote-left](Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por medio de ejemplos. Séneca)
+@fa[quote-left](Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por medio de ejemplos.)
+Séneca
 
 ---
 # Imágenes y reconociminetos
