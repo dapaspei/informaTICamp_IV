@@ -5,13 +5,13 @@
 #### un camino para mejorar las habilidades
 @snapend
 
----?image=assets/img/disclaimer.png&position=right&size=35% 60%
+---?image=assets/img/disclaimer.png&position=right&size=35% auto
 
 @snap[north-west]
 # @size[0.6em](Disclaimer)
 @snapend
 
-@snap[south-west list-content-concise span-50]
+@snap[south-west list-content-concise span-60]
 @ul[](false)
 - @size[0.6em](Todo lo que vais a ver y oír es fruto de la propia experiencia del que habla.)
 - @size[0.6em](Si hay algo que no acabas de entender, por favor, pregúntalo!)
