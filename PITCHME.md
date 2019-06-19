@@ -7,7 +7,7 @@
 
 ---
 
-@snap[west]
+@snap[west span-40]
 ![Road](assets/img/disclaimer.jpg)
 @snapend
 
