@@ -1,7 +1,7 @@
 ---?image=assets/img/road.jpg&position=left&size=45% 100%
 
 @snap[east span-50 text-center]
-# Retos
+# @color[#e49436](Retos)
 #### un camino para mejorar las habilidades
 @snapend
 
