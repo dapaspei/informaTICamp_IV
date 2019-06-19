@@ -1,6 +1,6 @@
 
 @snap[west snap-50]
-![Camino](assets/img/road.png)
+![Camino](assets/img/road.jpg)
 # Retos
 #### un camino para mejorar las habilidades
 @snapend
