@@ -10,7 +10,7 @@
 ---?image=assets/img/disclaimer.png&position=right&size=40% auto
 
 @snap[north-west]
-# @size[0.6em](Disclaimer)
+# Disclaimer
 @snapend
 
 @snap[south-west list-content-concise span-60]
