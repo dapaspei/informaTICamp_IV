@@ -1,5 +1,7 @@
 ---?image=assets/img/road.jpg&position=left&size=45% 100%
 
+@title[Retos, un camino para mejorar las habilidades]
+
 @snap[east span-50 text-center]
 # @color[#e49436](Retos)
 #### un camino para mejorar las habilidades
@@ -14,9 +16,9 @@
 @snap[south-west list-content-concise span-60]
 @ul[](false)
 - @size[0.7em](Todo lo que vas a ver y oír es fruto de la propia experiencia del que habla.)
-- @size[0.7em](Si hay algo que no acabas de entender, por favor, pregúntalo!)
-- @size[0.7em](Lo que se va a decir aquí, no tiene por qué funcionarte a tí, ¿o si?)
-- @size[0.7em](No intentes hacerlo sin la ayuda de un compañero/a.)
+- @size[0.7em](Si hay algo que entiendes, será que no lo sé explicar bien.)
+- @size[0.7em](Lo que voy a decir/mostrar, no tiene por qué funcionarte a tí, ¿o si?)
+- @size[0.7em](No intentes hacerlo sin la ayuda de un compañer@.)
 @ulend
 <br><br>
 @snapend
@@ -36,35 +38,28 @@ Chiste del 5% de profesores que vienen a formarse y que hacen lo posible para de
 ---
 
 # Mi objetivo
-No es ofreceros respuestas.
-Es explicar lo que hacemos en clase(nuestras Experiencias)
-Es crearos dudas y curiosidad.
-Es intentar apasionaros por buscar algo diferente.
+- Es explicar lo que hacemos en clase: mi/nuestras experiencias.
+- Es intentar apasionaros por y para hacer algo diferente.
+- No es ofreceros respuestas, sino generar más dudas y aumentar vuestra curiosidad.
+
+Note:
+Chiste: y si no lo consigo es que no soy del 5% :-( 
 
 
----?image=assets/img/bored.jpg&position=right&size=40% auto
-
-Note: 
-Historia de alumnos aburridos
-
----
-
-@snap[west span-50]
-Estudiar 
-@endsnap
-vs
-@snap[east span-50]
-Aprender
-@endsnap
+---?image=assets/img/bored.jpg&size=100% auto
 
 Note: 
-Lo que se estudia se olvida.
-Lo que queremos son buenos aprendices, no buenos estudiantes.
-Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
+Dejadme que os cuente una historia: Allá por el 2009 ...
 
----
+---?image=assets/img/novadors.jpg&size=100% auto
 
-# Enseñar no es meter información a la gente, es extraer sus potencialidades (capacidades?)
+Note: 
+Nuevas formas de enseñar, novadors, búscate la vida. 
+
+---?image=assets/img/cotesbaixes.jpg&size=100% auto
+
+Note: 
+Caí en un instituto con ganas de (trans)formar al alumnado.
 
 ---
 
@@ -81,12 +76,31 @@ Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
 
 ---
 
+@snap[west span-45] @box[bg-gold text-white box-wide-padding rounded](Enseñar/Estudiar # ¿para Vomitar?) ![Vomito](assets/img/vomito.png)@snapend
+
+@snap[east span-45 fragment] @box[bg-green box-wide-padding rounded](Enseña/Estudiar #  para ARENDER, MOTIVAR, APASIONAR, ...) @snapend
+
+Note: 
+Lo que se estudia se olvida.
+Lo que queremos son buenos aprendices, no buenos estudiantes.
+Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
+
+---
+
+
+# Enseñar no es meter información a la gente, es extraer sus potencialidades (capacidades?)
+
+> "Padre: ¿Esto es lo que le enseñas a mi hijo?
+> "Toni Nadal: No, no ... esto es lo que él aprende.
+@snap[south-east]
+@size[02.em](https://www.youtube.com/watch?v=FXL2G1p-EDw)
+@endsnap
+
+Note: Anécdota de Toni Nadal en el TedxMalaga
+
+---
+
 # ¿Por qué? (Motivación)
-Dejadme que os cuente una historia... ¿??
-Aprobé en 2009
-- Por mis alumnos
-- Por mi
-- Porqué yo lo valgo
 
 ---
 
