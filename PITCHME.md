@@ -62,12 +62,12 @@ Caí en un instituto con ganas de (trans)formar al alumnado.
 
 ---
 
-@snap[west span-35] 
-@box[bg-gold text-white box-wide-padding rounded](El **SABER** # Nos ayuda a **gestionar** la realidad) 
+@snap[west span-35 text-15] 
+@box[bg-gold text-white box-wide-padding rounded](EL **SABER**, nos ayuda a **gestionar** la realidad) 
 @snapend
 
-@snap[east span-55 fragment] 
-@box[bg-blue text-white box-wide-padding waved](El **HACER** # Nos ayuda a **transformar** la realidad) 
+@snap[east span-55 text-20 fragment] 
+@box[bg-blue text-white box-wide-padding waved](EL **HACER**, nos ayuda a **transformar** la realidad) 
 @snapend
 
 Note: 
