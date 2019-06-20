@@ -51,12 +51,12 @@ Chiste: y si no lo consigo es que no soy del 5% :-(
 Note: 
 Dejadme que os cuente una historia: Allá por el 2009 ...
 
----?image=assets/img/novadors.jpg&size=100% auto
+---?image=assets/img/novadors.jpg&size=cover
 
 Note: 
 Nuevas formas de enseñar, novadors, búscate la vida. 
 
----?image=assets/img/cotesbaixes.jpg&size=100% auto
+---?image=assets/img/cotesbaixes.jpg&size=contain
 
 Note: 
 Caí en un instituto con ganas de (trans)formar al alumnado.
