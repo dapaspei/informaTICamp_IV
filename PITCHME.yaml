@@ -3,7 +3,7 @@ layout: center
 
 # Look-and-Feel
 #logo : assets/images/logo.png
-theme : night
+theme : template
 theme-margins    : [ "0", "15px" ]
 #theme-override : assets/css/PITCHME.css
 highlight : ir-black
