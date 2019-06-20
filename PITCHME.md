@@ -46,12 +46,12 @@ Note:
 Chiste: y si no lo consigo es que no soy del 5% :-( 
 
 
----?image=assets/img/bored.jpg&size=100% auto
+---?image=assets/img/bored.jpg&size=contain
 
 Note: 
 Dejadme que os cuente una historia: Allá por el 2009 ...
 
----?image=assets/img/novadors.jpg&size=cover
+---?image=assets/img/novadors.jpg&size=contain
 
 Note: 
 Nuevas formas de enseñar, novadors, búscate la vida. 
