@@ -5,7 +5,7 @@ layout: center
 #logo : assets/images/logo.png
 #theme : simple
 theme: template
-theme-override : assets/css/PITCHME.css
+#theme-override : assets/css/PITCHME.css
 theme-margins    : [ "0", "15px" ]
 #theme-override : assets/css/PITCHME.css
 highlight : ir-black

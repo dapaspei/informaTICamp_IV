@@ -30,7 +30,6 @@
 - Por vuestra atención
 - Por vuestros comentarios
 - Por ser el 5% ...
-...
 
 Note:
 Chiste del 5% de profesores que vienen a formarse y que hacen lo posible para dejar huella en su alumnado.
