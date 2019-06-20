@@ -63,9 +63,9 @@ Caí en un instituto con ganas de (trans)formar al alumnado.
 
 ---
 
-@snap[west span-50] @box[](El @color[#e49436](SABER) nos ayuda a @color[#e49436](gestionar) la realidad.) @snapend
+@snap[west span-50] @box[bg-gold text-white box-wide-padding rounded](El @color[#e49436](SABER) nos ayuda a @color[#e49436](gestionar) la realidad.) @snapend
 
-@snap[east span-50 fragment] @bos[](El @color[#e49436](HACER) nos ayuda a @color[#e49436](transformar) la realidad.) @snapend
+@snap[east span-50 fragment] @box[bg-gold text-white box-wide-padding rounded](El @color[#e49436](HACER) nos ayuda a @color[#e49436](transformar) la realidad.) @snapend
 
 Note: 
 Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
