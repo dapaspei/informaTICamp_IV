@@ -61,17 +61,13 @@ Note:
 Caí en un instituto con ganas de (trans)formar al alumnado.
 
 ---
-# prueba
-@box[bg-gold text-white box-wide-padding rounded](El @color[#e49436](SABER) nos ayuda a gestionar la realidad.) 
-
----
 
 @snap[west span-35] 
-@box[bg-gold text-white box-wide-padding rounded](El @color[#e49436](SABER) nos ayuda a @color[#e49436](gestionar) la realidad.) 
+@box[bg-gold text-white box-wide-padding rounded](El __SABER__ nos ayuda a **gestionar** la realidad.) 
 @snapend
 
 @snap[east span-55 fragment] 
-@box[bg-blue text-white box-wide-padding waved](El @color[#e49436](HACER) nos ayuda a @color[#e49436](transformar) la realidad.) 
+@box[bg-blue text-white box-wide-padding waved](El _HACER_ nos ayuda a *transformar* la realidad.) 
 @snapend
 
 Note: 
