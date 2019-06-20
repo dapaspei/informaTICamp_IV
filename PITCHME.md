@@ -61,6 +61,10 @@ Note:
 Caí en un instituto con ganas de (trans)formar al alumnado.
 
 ---
+# prueba
+@box[bg-gold text-white box-wide-padding rounded](El SABER nos ayuda a gestionar la realidad.) 
+
+---
 
 @snap[west span-35] 
 @box[bg-gold text-white box-wide-padding rounded](El @color[#e49436](SABER) nos ayuda a @color[#e49436](gestionar) la realidad.) 
