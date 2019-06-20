@@ -63,9 +63,13 @@ Caí en un instituto con ganas de (trans)formar al alumnado.
 
 ---
 
-@snap[west span-50] @box[bg-gold text-white box-wide-padding rounded](El @color[#e49436](SABER) nos ayuda a @color[#e49436](gestionar) la realidad.) @snapend
+@snap[west span-35] 
+@box[bg-gold text-white box-wide-padding rounded](El @color[#e49436](SABER) nos ayuda a @color[#e49436](gestionar) la realidad.) 
+@snapend
 
-@snap[east span-50 fragment] @box[bg-gold text-white box-wide-padding rounded](El @color[#e49436](HACER) nos ayuda a @color[#e49436](transformar) la realidad.) @snapend
+@snap[east span-55 fragment] 
+@box[bg-blue text-white box-wide-padding waved](El @color[#e49436](HACER) nos ayuda a @color[#e49436](transformar) la realidad.) 
+@snapend
 
 Note: 
 Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
@@ -74,7 +78,7 @@ Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
 
 @snap[west span-45] @box[bg-gold text-white box-wide-padding rounded](Enseñar/Estudiar # ¿para Vomitar?) ![Vomito](assets/img/vomito.png)@snapend
 
-@snap[east span-45 fragment] @box[bg-green box-wide-padding rounded](Enseña/Estudiar #  para ARENDER, MOTIVAR, APASIONAR, ...) @snapend
+@snap[east span-45 fragment] @box[bg-green box-wide-padding waved](Enseña/Estudiar #  para ARENDER, MOTIVAR, APASIONAR, ...) @snapend
 
 Note: 
 Lo que se estudia se olvida.
