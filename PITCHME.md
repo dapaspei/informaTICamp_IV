@@ -65,11 +65,11 @@ Caí en un instituto con ganas de (trans)formar al alumnado.
 
 @snap[west span-50]
 > El @color[#e49436](SABER) nos ayuda a @color[#e49436](gestionar) la realidad. 
-@endsnap
+@snapend
 
 @snap[east span-50]
 > El @color[#e49436](HACER) nos ayuda a @color[#e49436](transformar) la realidad.
-@endsnap
+@snapend
 
 Note: 
 Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
@@ -92,11 +92,10 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 > "Padre: ¿Esto es lo que le enseñas a mi hijo?
 > "Toni Nadal: No, no ... esto es lo que él aprende.
-@snap[south-east]
-@size[02.em](https://www.youtube.com/watch?v=FXL2G1p-EDw)
-@endsnap
+@snap[south-east] @size[02.em](https://www.youtube.com/watch?v=FXL2G1p-EDw) @endsnap
 
-Note: Anécdota de Toni Nadal en el TedxMalaga
+Note: 
+Anécdota de Toni Nadal en el TedxMalaga
 
 ---
 
@@ -122,10 +121,11 @@ Note: Anécdota de Toni Nadal en el TedxMalaga
 Séneca
 
 ---
-# Imágenes y reconociminetos
+@snap[north-center]# Imágenes y reconociminetos @snapend
 
-@snap[]
+@snap[] (false)
 - [Road](https://pixabay.com/photos/woodland-road-falling-leaf-natural-656969/)
 - [Disclaimer](https://pixabay.com/es/illustrations/seguridad-cibernética-1923446/)
 - [Bored](https://pixabay.com/photos/book-bored-college-education-15584/)
 - [Bored Too](https://pixabay.com/photos/school-bored-girl-education-3666924/)
+@snapend
