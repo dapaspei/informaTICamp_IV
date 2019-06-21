@@ -35,10 +35,13 @@
 
 - Por vuestra atención
 - Por vuestros comentarios
-- Por ser el 5% ...
+- Por ser del 5% de profesores que ...
 
 Note:
 Chiste del 5% de profesores que vienen a formarse y que hacen lo posible para dejar huella en su alumnado.
+- que dejan huella, ya que el 95% restante no 
+- quieren formarse para mejorar su práctica docente el curso que viene.
+- que se han librado de ser miembros de un tribunal de oposiciones
 
 ---
 
@@ -58,8 +61,11 @@ Dejadme que os cuente una historia: Allá por el 2009 ...
 
 ---?image=https://novadors.org/wp-content/uploads/2019/06/Logo_Novadors19_Rectangular.jpg&size=contain
 
+@box[north-west text-center text-05 bg-gold text-white box-wide-padding waved](<SPAM>)
+
 @box[north text-center bg-black text-white box-wide-padding waved](**BÚSCATE la vida**)
 
+@box[south-east text-center text-05 bg-gold text-white box-wide-padding waved](</SPAM>)
 Note: 
 Nuevas formas de enseñar, novadors, búscate la vida. 
 
