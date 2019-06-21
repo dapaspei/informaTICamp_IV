@@ -63,7 +63,7 @@ Dejadme que os cuente una historia: Allá por el 2009 ...
 Note: 
 Nuevas formas de enseñar, novadors, búscate la vida. 
 
----?image=http://mestreacasa.gva.es/c/document_library/get_file?folderId=500014389912&name=DLFE-1661086.jpg&size=contain
+---?image=assets/img/cotesbaixes.jpg&size=contain
 
 Note: 
 Caí en un instituto con ganas de (trans)formar al alumnado.
