@@ -1,4 +1,4 @@
----?image=https://cdn.pixabay.com/photo/2015/03/03/05/56/woodland-656969_960_720.jpg&position=left&size=45% 100%
+---?image=https://cdn.pixabay.com/photo/2017/11/12/13/37/curves-2942475_960_720.jpg&position=left&size=45% 100%
 
 @title[Retos, un camino para mejorar las habilidades]
 
@@ -7,7 +7,7 @@
 #### un camino para mejorar las habilidades
 @snapend
 
-@snap[south-west text-03]http://mestreacasa.gva.es/web/cefirecastello/jornades/informaticamp_iv @spanend
+@snap[south-east text-03]http://mestreacasa.gva.es/web/cefirecastello/jornades/informaticamp_iv @spanend
 
 ---?image=assets/img/disclaimer.png&position=right&size=35% auto
 
@@ -125,7 +125,7 @@ Séneca
 @snap[north-center]# Imágenes y reconociminetos @snapend
 
 @snap[] (false)
-- [Road](https://pixabay.com/photos/woodland-road-falling-leaf-natural-656969/)
+- [Road](https://cdn.pixabay.com/photo/2017/11/12/13/37/curves-2942475_960_720.jpg)
 - [Disclaimer](https://pixabay.com/es/illustrations/seguridad-cibernética-1923446/)
 - [Bored](https://pixabay.com/photos/book-bored-college-education-15584/)
 - [Bored Too](https://pixabay.com/photos/school-bored-girl-education-3666924/)
