@@ -83,9 +83,9 @@ Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
 
 ---
 
-@snap[west span-45] @box[bg-gold text-white box-wide-padding rounded](Enseñar/Estudiar # ¿para Vomitar?) ![Vomito](assets/img/vomito.png)@snapend
+@box[west bg-gold text-white box-wide-padding rounded](Enseñar/Estudiar # ¿para Vomitar?) ![Vomito](assets/img/vomito.png)
 
-@snap[east span-45 fragment] @box[bg-green box-wide-padding waved](Enseña/Estudiar #  para ARENDER, MOTIVAR, APASIONAR, ...) @snapend
+@box[east span-45 fragment bg-green box-wide-padding waved](Enseña/Estudiar #  para ARENDER, MOTIVAR, APASIONAR, ...)
 
 Note: 
 Lo que se estudia se olvida.
