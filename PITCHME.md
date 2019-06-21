@@ -13,7 +13,7 @@
 [Jornades InformaTICamp IV](http://mestreacasa.gva.es/web/cefirecastello/jornades/informaticamp_iv)
 @snapend
 
----?image=assets/img/disclaimer.png&position=right&size=35% auto
+---?image=https://cdn.pixabay.com/photo/2016/12/21/17/39/cyber-security-1923446_960_720.png&position=right&size=35% auto
 
 @snap[north-west]
 # Disclaimer
@@ -51,17 +51,17 @@ Note:
 Chiste: y si no lo consigo es que no soy del 5% :-( 
 
 
----?image=assets/img/bored.jpg&size=contain
+---?image=https://cdn.pixabay.com/photo/2018/09/10/12/19/school-3666924_960_720.jpg&size=contain
 
 Note: 
 Dejadme que os cuente una historia: Allá por el 2009 ...
 
----?image=assets/img/novadors.jpg&size=contain
+---?image=https://novadors.org/wp-content/uploads/2019/06/Logo_Novadors19_Rectangular.jpg&size=contain
 
 Note: 
 Nuevas formas de enseñar, novadors, búscate la vida. 
 
----?image=assets/img/cotesbaixes.jpg&size=contain
+---?image=http://mestreacasa.gva.es/c/document_library/get_file?folderId=500014389912&name=DLFE-1661086.jpg&size=contain
 
 Note: 
 Caí en un instituto con ganas de (trans)formar al alumnado.
@@ -122,7 +122,7 @@ Anécdota de Toni Nadal en el TedxMalaga
 
 ---
 
-@snap[center span-100 text-15]
+@snap[center text-15]
 @quote[Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por medio de ejemplos.](Séneca)
 @snapend
 ---
