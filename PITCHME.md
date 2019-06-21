@@ -61,11 +61,13 @@ Dejadme que os cuente una historia: Allá por el 2009 ...
 
 ---?image=https://novadors.org/wp-content/uploads/2019/06/Logo_Novadors19_Rectangular.jpg&size=contain
 
-@box[south-west text-center text-05 bg-gold text-white box-wide-padding rounded](**"<SPAM>"**)
+@box[south-west text-center text-05 bg-gold text-white box-wide-padding rounded](**SPAM**)
 
 @box[north text-center bg-black text-white box-wide-padding waved](**BÚSCATE la vida**)
 
-@box[south-east text-center text-05 bg-gold text-white box-wide-padding rounded](**\<\/SPAM\>**)
+@box[south text-center text-05 bg-gold text-white box-wide-padding rounded](**SPAM**)
+
+@box[south-east text-center text-05 bg-gold text-white box-wide-padding rounded](**SPAM**)
 
 Note: 
 Nuevas formas de enseñar, novadors, búscate la vida. 
