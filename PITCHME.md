@@ -1,4 +1,4 @@
----?image=assets/img/road.jpg&position=left&size=45% 100%
+---?image=https://cdn.pixabay.com/photo/2015/03/03/05/56/woodland-656969_960_720.jpg&position=left&size=45% 100%
 
 @title[Retos, un camino para mejorar las habilidades]
 
@@ -6,6 +6,8 @@
 # @color[#e49436](Retos)
 #### un camino para mejorar las habilidades
 @snapend
+
+@snap[south-west text-03]http://mestreacasa.gva.es/web/cefirecastello/jornades/informaticamp_iv @spanend
 
 ---?image=assets/img/disclaimer.png&position=right&size=35% auto
 
