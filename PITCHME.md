@@ -83,9 +83,11 @@ Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
 
 ---
 
-@box[west bg-gold text-white box-wide-padding rounded](Enseñar/Estudiar # ¿para Vomitar?)
+@box[west span-35 bg-gold text-white box-wide-padding rounded](Enseñar/Estudiar # ¿para Vomitar?)
 
+@snap[south-west]
 ![Vomito](assets/img/vomito.png)
+@snapend
 
 @box[east span-45 fragment bg-green box-wide-padding waved](Enseña/Estudiar #  para ARENDER, MOTIVAR, APASIONAR, ...)
 
