@@ -56,9 +56,9 @@ Chiste: y si no lo consigo es que no soy del 5% :-(
 Note: 
 Dejadme que os cuente una historia: Allá por el 2009 ...
 
----?image=https://novadors.org/wp-content/uploads/2019/06/Logo_Novadors19_Rectangular.jpg&size=65% auto
+---?image=https://novadors.org/wp-content/uploads/2019/06/Logo_Novadors19_Rectangular.jpg&position=left&size=65% 100%
 
-@snap @box[bg-white text-gold box-wide-padding waved](**BÚSCATE la vida**) @snapend
+@snap[east span-30 text-center] @box[bg-white text-gold box-wide-padding waved](**BÚSCATE la vida**) @snapend
 
 Note: 
 Nuevas formas de enseñar, novadors, búscate la vida. 
