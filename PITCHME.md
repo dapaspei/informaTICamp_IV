@@ -7,7 +7,9 @@
 #### un camino para mejorar las habilidades
 @snapend
 
-@snap[south-east text-03]http://mestreacasa.gva.es/web/cefirecastello/jornades/informaticamp_iv @spanend
+@snap[south-east text-03]
+http://mestreacasa.gva.es/web/cefirecastello/jornades/informaticamp_iv 
+@snapend
 
 ---?image=assets/img/disclaimer.png&position=right&size=35% auto
 
