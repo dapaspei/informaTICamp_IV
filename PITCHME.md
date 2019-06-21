@@ -139,5 +139,5 @@ Anécdota de Toni Nadal en el TedxMalaga
 - [Disclaimer](https://pixabay.com/es/illustrations/seguridad-cibernética-1923446/)
 - [Bored](https://pixabay.com/photos/book-bored-college-education-15584/)
 - [Bored Too](https://pixabay.com/photos/school-bored-girl-education-3666924/)
-- [Algo]ﬂ()
+- [Algo]()
 @snapend
