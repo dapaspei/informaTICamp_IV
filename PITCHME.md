@@ -122,7 +122,7 @@ Anécdota de Toni Nadal en el TedxMalaga
 
 ---
 
-@snap[center text-20]
+@snap[center text-15]
 @quote[Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por medio de ejemplos.](Séneca)
 @snapend
 ---
