@@ -1,5 +1,6 @@
 # Layout
 layout: center
+charts : true
 
 # Look-and-Feel
 #logo : assets/images/logo.png
