@@ -58,9 +58,7 @@ Dejadme que os cuente una historia: Allá por el 2009 ...
 
 ---?image=https://novadors.org/wp-content/uploads/2019/06/Logo_Novadors19_Rectangular.jpg&size=contain
 
-@snap
 @box[north text-center bg-black text-white box-wide-padding waved](**BÚSCATE la vida**)
-@snapend
 
 Note: 
 Nuevas formas de enseñar, novadors, búscate la vida. 
