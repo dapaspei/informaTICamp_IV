@@ -7,7 +7,7 @@
 #### un camino para mejorar las habilidades
 @snapend
 
-@snap[south-east text-left text-03]
+@snap[south-east text-center text-03]
 ![Logo Cefire](http://mestreacasa.gva.es/image/layout_set_logo?img_id=500003437543&t=1561102791500)
 <br>
 [Jornades InformaTICamp IV](http://mestreacasa.gva.es/web/cefirecastello/jornades/informaticamp_iv)
