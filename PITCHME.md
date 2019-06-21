@@ -56,10 +56,10 @@ Chiste: y si no lo consigo es que no soy del 5% :-(
 Note: 
 Dejadme que os cuente una historia: Allá por el 2009 ...
 
----?image=https://novadors.org/wp-content/uploads/2019/06/Logo_Novadors19_Rectangular.jpg&position=left&size=65% 100%
+---?image=https://novadors.org/wp-content/uploads/2019/06/Logo_Novadors19_Rectangular.jpg&size=contain
 
 @snap
-@box[east text-center bg-black text-white box-wide-padding waved](**BÚSCATE la vida**)
+@box[north-center text-center bg-black text-white box-wide-padding waved](**BÚSCATE la vida**)
 @snapend
 
 Note: 
