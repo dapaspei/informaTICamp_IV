@@ -69,6 +69,35 @@ Note:
 Caí en un instituto con ganas de (trans)formar al alumnado.
 
 ---
+## El viaje 
+<canvas data-chart="bar">
+<!--
+{
+ "data": {
+  "labels": ["Grupos ESO","Alumnado","Profesorado Implicado"],
+  "datasets": [
+   {
+    "data":[1,60,6],
+    "label":"Curso 15/16",
+    "backgroundColor":"rgba(20,20,220,.8)"
+   },
+   {
+    "data":[4,80,15],
+    "label":"Curso 16/17",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   },
+   {
+    "data":[4,140,30],
+    "label":"Curso 17/18",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   }
+  ]
+ },
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+---
 
 @snap[west span-35 text-15] 
 @box[bg-gold text-white box-wide-padding rounded](EL **SABER** nos ayuda a **gestionar** la realidad) 
@@ -111,36 +140,6 @@ Anécdota de Toni Nadal en el TedxMalaga
 ---
 
 #### ¿Por qué? (Motivación)
-
-<canvas data-chart="bar">
-<!--
-{
- "data": {
-  "labels": ["Grupos ESO","Alumnado","Profesorado Implicado"],
-  "datasets": [
-   {
-    "data":[1,60,6],
-    "label":"Curso 15/16",
-    "backgroundColor":"rgba(20,20,220,.8)"
-   },
-   {
-    "data":[4,80,15],
-    "label":"Curso 16/17",
-    "backgroundColor":"rgba(120,120,220,.8)"
-   },
-   {
-    "data":[4,140,30],
-    "label":"Curso 17/18",
-    "backgroundColor":"rgba(120,120,220,.8)"
-   }
-  ]
- },
- "options": { "responsive": "true" }
-}
--->
-</canvas>
-
-
 
 ---
 
