@@ -59,7 +59,7 @@ Dejadme que os cuente una historia: Allá por el 2009 ...
 ---?image=https://novadors.org/wp-content/uploads/2019/06/Logo_Novadors19_Rectangular.jpg&position=left&size=65% 100%
 
 @snap
-@box[east span-40 text-center bg-white text-gold box-wide-padding waved](**BÚSCATE la vida**)
+@box[east text-center bg-black text-white box-wide-padding waved](**BÚSCATE la vida**)
 @snapend
 
 Note: 
