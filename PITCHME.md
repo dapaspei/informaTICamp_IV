@@ -74,7 +74,7 @@ Nuevas formas de enseñar, novadors, búscate la vida.
 
 ---?image=https://image.slidesharecdn.com/reprographicstudents-110704135645-phpapp01/95/reprographic-students-castellano-33-1024.jpg&size=contain
 
-@box[south-west text-center bg-black text-white box-wide-padding waved](**Vicent Llopis Cotaina <br> Sagunto 2011**)
+@box[south-west text-center bg-black text-white box-wide-padding waved](**<a href="https://www.slideshare.net/vicentllopis/reprographic-students" _target="_blank">Vicent Llopis Cotaina</a> <br> Sagunto 2011**)
 
 
 Note: 
