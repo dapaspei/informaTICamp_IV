@@ -149,7 +149,7 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---
 
-@box[midpoint span-20 bg-green text-white box-wide-padding waved](Un RETO)
+@box[midpoint span-20 bg-pink text-white box-wide-padding waved](Un RETO)
 
 @box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](Es una situación real, cercana a quien la ha de resolver)
 @box[fragment north span-30 bg-purple text-white box-small-padding rounded](exige pensar en la situación)
