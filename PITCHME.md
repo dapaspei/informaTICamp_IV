@@ -156,7 +156,7 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 ---
 
 @snap[middlepoint]
-#### Enseñar no es meter información al alumnado, es extraer sus potencialidades y/o capacidades
+## Enseñar no es meter información al alumnado, es extraer sus potencialidades y/o capacidades
 @snapend
 
 ---
