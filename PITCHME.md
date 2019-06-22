@@ -151,14 +151,14 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 @box[midpoint span-20 bg-gold text-white box-wide-padding rounded](Un RETO)
 
-@box[fragment north-west span-45 bg-gold text-white box-wide-padding rounded](Es una situación real, cercana a quien la ha de resolver)
-@box[fragment north span-45 bg-gold text-white box-wide-padding rounded](exige pensar en la situación)
-@box[fragment north-east span-45 bg-gold text-white box-wide-padding rounded]("borroso", con más de una solución)
-@box[fragment west span-45 bg-gold text-white box-wide-padding rounded](precisa la colaoración entre estudiantes)
-@box[fragment east span-45 bg-gold text-white box-wide-padding rounded](está basado en conocimientos existentes)
-@box[fragment south-west span-45 bg-gold text-white box-wide-padding rounded](deber producir resultados evaluables)
-@box[fragment south span-45 bg-gold text-white box-wide-padding rounded](debe exigir búsqueda e interpretación de información)
-@box[fragment south-east span-45 bg-gold text-white box-wide-padding rounded](debe proporcionar **conocimiento** al solucionarlo)
+@box[fragment north-west span-35 bg-gold text-white box-wide-padding rounded](Es una situación real, cercana a quien la ha de resolver)
+@box[fragment north span-35 bg-gold text-white box-wide-padding rounded](exige pensar en la situación)
+@box[fragment north-east span-35 bg-gold text-white box-wide-padding rounded]("borroso", con más de una solución)
+@box[fragment west span-35 bg-gold text-white box-wide-padding rounded](precisa la colaoración entre estudiantes)
+@box[fragment east span-35 bg-gold text-white box-wide-padding rounded](está basado en conocimientos existentes)
+@box[fragment south-west span-35 bg-gold text-white box-wide-padding rounded](deber producir resultados evaluables)
+@box[fragment south span-35 bg-gold text-white box-wide-padding rounded](debe exigir búsqueda e interpretación de información)
+@box[fragment south-east span-35 bg-gold text-white box-wide-padding rounded](debe proporcionar **conocimiento** al solucionarlo)
 
 
 
