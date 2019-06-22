@@ -134,7 +134,7 @@ Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
 ![Vomito](https://openmoji.org/data/color/618x618/1F92E.png)
 @snapend
 
-@box[east span-45 fragment bg-green box-wide-padding waved](Enseñar / Estudiar #  para: APRENDER, MOTIVARSE, APASIONARSE, ESFORZARSE, TOMAR DECISIONES PROPIAS, ...)
+@box[east span-45 fragment bg-green box-wide-padding waved](Enseñar / Estudiar # para APRENDER, MOTIVARSE, APASIONARSE, ESFORZARSE, TOMAR DECISIONES PROPIAS, ...)
 
 Note: 
 Lo que se estudia se olvida.
