@@ -149,16 +149,16 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---
 
-@box[midpoint span-20 bg-gold text-white box-wide-padding rounded](Un RETO)
+@box[midpoint span-20 bg-yelloy text-white box-wide-padding waved](Un RETO)
 
 @box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](Es una situación real, cercana a quien la ha de resolver)
-@box[fragment north span-30 bg-gold text-white box-small-padding rounded](exige pensar en la situación)
+@box[fragment north span-30 bg-purple text-white box-small-padding rounded](exige pensar en la situación)
 @box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](es "borroso", con más de una solución)
 @box[fragment west span-32 bg-gold text-white box-small-padding rounded](precisa la colaboración entre estudiantes)
 @box[fragment east span-32 bg-gold text-white box-small-padding rounded](está basado en conocimientos existentes)
 @box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](deber producir resultados evaluables)
 @box[fragment south span-32 bg-gold text-white box-small-padding rounded](debe exigir búsqueda e interpretación de información)
-@box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](debe proporcionar **conocimiento** al solucionarlo)
+@box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](debe proporcionar **_conocimiento_** al solucionarlo)
 
 
 
