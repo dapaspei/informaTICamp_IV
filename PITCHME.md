@@ -82,7 +82,7 @@ Encontré a Vicent Llopis, un profesor apasionado por sus alumnos.
 
 ---?image=assets/img/blackoutpoem.jpg&size=contain 
 
-@box[south span-50 text-center text-10 bg-gold text-black box-small-padding waved](**BLACK OUT POEM**)
+@box[north span-50 text-center text-10 bg-gold text-black box-small-padding waved](**BLACK OUT POEM**)
 
 
 Note: y empecé a probar a hacer cosas diferentes, como por ejemplo: poesia visual
