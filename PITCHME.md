@@ -161,7 +161,7 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---
 
-@quote["Un Padre: ¿Esto es lo que le enseñas a mi hijo? <br> "Entrenador: No, no. Esto es lo que ÉL APRENDE!](Toni Nadal)
+@quote["Un Padre: ¿Esto es lo que le enseñas a mi hijo? <br><br> "Entrenador: No, no. Esto es lo que ÉL APRENDE!](Toni Nadal)
 
 @snap[south text-10]
 <a href="https://www.youtube.com/watch?v=FXL2G1p-EDw" _target="_blank">@img[span-20](https://i.ytimg.com/vi/CpejLEP-3Cs/maxresdefault.jpg)</a>
