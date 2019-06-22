@@ -128,13 +128,13 @@ Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
 
 ---
 
-@box[west span-35 bg-gold text-white box-wide-padding rounded](Enseñar/Estudiar # ¿para Vomitar?)
+@box[west span-35 bg-gold text-white box-wide-padding rounded](Enseñar / Estudiar # ¿para Vomitar?)
 
 @snap[south-west center span-25]
 ![Vomito](https://openmoji.org/data/color/618x618/1F92E.png)
 @snapend
 
-@box[east span-45 fragment bg-green box-wide-padding waved](Enseña/Estudiar #  para ARENDER, MOTIVAR, APASIONAR, ...)
+@box[east span-45 fragment bg-green box-wide-padding waved](Enseñar / Estudiar #  para ARENDER, MOTIVAR, APASIONAR, ESFORZARSE, DECIDIR, ...)
 
 Note: 
 Lo que se estudia se olvida.
