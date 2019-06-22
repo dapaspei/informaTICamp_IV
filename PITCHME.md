@@ -92,35 +92,21 @@ Note: y empecé a probar a hacer cosas diferentes, como por ejemplo: poesia visu
 Note: 
 Caí en un instituto con ganas de (trans)formar al alumnado.
 
----
-## El viaje 
-<canvas data-chart="bar">
-<!--
-{
- "data": {
-  "labels": ["Grupos ESO","Alumnado","Profesorado Implicado"],
-  "datasets": [
-   {
-    "data":[1,60,6],
-    "label":"Curso 15/16",
-    "backgroundColor":"rgba(20,20,220,.8)"
-   },
-   {
-    "data":[4,80,15],
-    "label":"Curso 16/17",
-    "backgroundColor":"rgba(120,120,220,.8)"
-   },
-   {
-    "data":[4,140,30],
-    "label":"Curso 17/18",
-    "backgroundColor":"rgba(120,120,220,.8)"
-   }
-  ]
- },
- "options": { "responsive": "true" }
-}
--->
-</canvas>
+---?image=https://cdn.pixabay.com/photo/2017/05/01/18/23/clown-fish-2276193_960_720.jpg&size=contain
+
+@box[south span-50 text-center text-20 bg-gold text-black box-small-padding rounded](**SIMBIOSIS**)
+
+Note: 
+Simbiosis: yo tenía campo de pruebas y ellos alguien que les ayudara a 
+
+---?image=https://cdn.pixabay.com/photo/2018/12/12/23/32/small-3871893_960_720.jpg&size=contain
+
+@box[west span-30 text-center text-10 bg-blue text-white box-small-padding rounded](**(TRANS)FORMAR**)
+
+
+Note: 
+transoformar a los profesores y alumnos.
+
 ---
 
 @snap[west span-35 text-15] 
@@ -192,5 +178,36 @@ Anécdota de Toni Nadal en el TedxMalaga
 - [Disclaimer](https://pixabay.com/es/illustrations/seguridad-cibernética-1923446/)
 - [Bored](https://pixabay.com/photos/book-bored-college-education-15584/)
 - [Bored Too](https://pixabay.com/photos/school-bored-girl-education-3666924/)
-- [Algo]()
+- [Pez Nemo](https://cdn.pixabay.com/photo/2017/05/01/18/23/clown-fish-2276193_960_720.jpg)
 @snapend
+
+---
+
+## El viaje 
+<canvas data-chart="bar">
+<!--
+{
+ "data": {
+  "labels": ["Grupos ESO","Alumnado","Profesorado Implicado"],
+  "datasets": [
+   {
+    "data":[1,60,6],
+    "label":"Curso 15/16",
+    "backgroundColor":"rgba(20,20,220,.8)"
+   },
+   {
+    "data":[4,80,15],
+    "label":"Curso 16/17",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   },
+   {
+    "data":[4,140,30],
+    "label":"Curso 17/18",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   }
+  ]
+ },
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
