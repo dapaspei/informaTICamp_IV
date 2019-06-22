@@ -179,6 +179,8 @@ Anécdota de Toni Nadal en el TedxMalaga
 - [Bored](https://pixabay.com/photos/book-bored-college-education-15584/)
 - [Bored Too](https://pixabay.com/photos/school-bored-girl-education-3666924/)
 - [Pez Nemo](https://cdn.pixabay.com/photo/2017/05/01/18/23/clown-fish-2276193_960_720.jpg)
+- [Transformer](https://pixabay.com/es/photos/pequeños-juguete-figurilla-3871893/)
+- [Reto](https://www.tknika.eus/ethazi/wp-content/uploads/sites/29/2015/11/imagenreto_aldatuta.png)
 @snapend
 
 ---
