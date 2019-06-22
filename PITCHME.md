@@ -161,8 +161,9 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 @quote[]("Un Padre: ¿Esto es lo que le enseñas a mi hijo? <br> "Toni Nadal: No, no ... esto es lo que él aprende)
 
-@snap[south-east text-10]
-<a href="https://www.youtube.com/watch?v=FXL2G1p-EDw" _target="_blank">![Toni Nadal en el TEDx La Malagueta](https://i.ytimg.com/vi/CpejLEP-3Cs/maxresdefault.jpg)</a>
+@snap[south text-10]
+@img[span-20](https://i.ytimg.com/vi/CpejLEP-3Cs/maxresdefault.jpg)
+<a href="https://www.youtube.com/watch?v=FXL2G1p-EDw" _target="_blank">Toni Nadal</a>G
 @snapend
 
 Note: 
