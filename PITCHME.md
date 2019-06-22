@@ -149,11 +149,19 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---
 
-# ¿Qué?
+@box[middlepoint span-20 bg-gold text-white box-wide-padding rounded](Un RETO es)
+
+@box[fragment nort-west span-35 bg-gold text-white box-wide-padding rounded](Una situación del mundo real, cercana a quien la tiene que resolver)
+@box[fragment south-east span-35 bg-gold text-white box-wide-padding rounded]("borroso", con más de una solución)
+
 
 ---
 
-# ¿Dónde?
+# ¿Qué actividades?
+
+---
+
+# Fallos (o propuestas de mejora ;) )
 
 ---
 
