@@ -110,12 +110,14 @@ transoformar a los profesores y alumnos.
 ---
 
 @snap[west span-35 text-15] 
-@box[bg-gold text-white box-wide-padding rounded](EL **SABER** nos ayuda a **gestionar** la realidad) 
+@box[bg-gold text-white box-wide-padding rounded](EL **_SABER_** nos ayuda a **gestionar** la realidad) 
 @snapend
 
 @snap[east span-55 text-20 fragment] 
-@box[bg-blue text-white box-wide-padding waved](EL **HACER** nos ayuda a **transformar** la realidad) 
+@box[bg-blue text-white box-wide-padding waved](EL **_HACER_** nos ayuda a **transformar** la realidad) 
 @snapend
+
+@box[south-west span-10 text-center text-05 bg-blue text-white box-small-padding rounded](<a href="https://www.youtube.com/watch?v=TMCvPJI2uEU" _target="_blank">José Pomares</a>)
 
 Note: 
 Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
@@ -137,10 +139,10 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---
 
-
-# Enseñar no es meter información a la gente, es extraer sus potencialidades (capacidades?)
-
-> "Padre: ¿Esto es lo que le enseñas a mi hijo?
+@snap[north]
+### Enseñar no es meter información a la gente, es extraer sus potencialidades (capacidades?)
+@snapend
+@quote[]("Padre: ¿Esto es lo que le enseñas a mi hijo?)
 > "Toni Nadal: No, no ... esto es lo que él aprende.
 @snap[south-east] @size[02.em](https://www.youtube.com/watch?v=FXL2G1p-EDw) @endsnap
 
