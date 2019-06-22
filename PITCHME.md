@@ -143,30 +143,11 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---
 
-@snap[north]
-#### Enseñar no es meter información a la gente, es extraer sus potencialidades (capacidades?)
-@snapend
-
-@quote[]("Padre: ¿Esto es lo que le enseñas a mi hijo? <br> "Toni Nadal: No, no ... esto es lo que él aprende)
-
-@snap[south-east] @size[02.em](https://www.youtube.com/watch?v=FXL2G1p-EDw) @endsnap
-
-Note: 
-Anécdota de Toni Nadal en el TedxMalaga
-
----
-
-#### ¿Por qué? (Motivación)
-
----
-
 # ¿Cómo? 
-
 
 ---
 
 # ¿Qué?
-
 
 ---
 
@@ -174,9 +155,19 @@ Anécdota de Toni Nadal en el TedxMalaga
 
 ---
 
-@snap[center text-15]
-@quote[Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por medio de ejemplos.](Séneca)
+@snap[north]
+#### Enseñar no es meter información al alumnado, es extraer sus potencialidades y/o capacidades
 @snapend
+
+@quote[]("Un Padre: ¿Esto es lo que le enseñas a mi hijo? <br> "Toni Nadal: No, no ... esto es lo que él aprende)
+
+@snap[south-east text-10]
+<a href="https://www.youtube.com/watch?v=FXL2G1p-EDw" _target="_blank">![Toni Nadal en el TEDx La Malagueta](https://i.ytimg.com/vi/CpejLEP-3Cs/maxresdefault.jpg)</a>
+@snapend
+
+Note: 
+Anécdota de Toni Nadal en el TedxMalaga
+
 ---
 @snap[north-center]# Imágenes y reconociminetos @snapend
 
