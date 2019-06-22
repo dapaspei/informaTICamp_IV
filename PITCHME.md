@@ -71,6 +71,11 @@ Dejadme que os cuente una historia: Allá por el 2009 ...
 Note: 
 Nuevas formas de enseñar, novadors, búscate la vida. 
 
+---?https://image.slidesharecdn.com/reprographicstudents-110704135645-phpapp01/95/reprographic-students-castellano-33-1024.jpg&size=contain
+
+Note: 
+Encontré a Vicent Llopis, un profesor apasionado por sus alumnos. 
+
 ---?image=assets/img/cotesbaixes.jpg&size=contain
 
 Note: 
