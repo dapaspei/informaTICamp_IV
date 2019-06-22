@@ -61,9 +61,9 @@ Dejadme que os cuente una historia: Allá por el 2009 ...
 
 ---?image=https://novadors.org/wp-content/uploads/2019/06/Logo_Novadors19_Rectangular.jpg&size=contain
 
-@box[nort-west span-25 text-center text-05 bg-gold text-white box-small-padding rounded](**SPAM**)
-@box[nort span-25 text-center text-05 bg-gold text-white box-small-padding rounded](**SPAM**)
-@box[nort-east span-25 text-center text-05 bg-gold text-white box-small-padding rounded](**SPAM**)
+@box[north-west span-25 text-center text-05 bg-gold text-white box-small-padding rounded](**SPAM**)
+@box[north span-25 text-center text-05 bg-gold text-white box-small-padding rounded](**SPAM**)
+@box[north-east span-25 text-center text-05 bg-gold text-white box-small-padding rounded](**SPAM**)
 @box[south-west span-25 text-center text-05 bg-gold text-white box-small-padding rounded](**SPAM**)
 @box[south span-25 text-center text-05 bg-gold text-white box-small-padding rounded](**SPAM**)
 @box[south-east span-25 text-center text-05 bg-gold text-white box-small-padding rounded](**SPAM**)
