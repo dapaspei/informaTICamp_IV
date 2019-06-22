@@ -74,11 +74,15 @@ Nuevas formas de enseñar, novadors, búscate la vida.
 
 ---?image=https://image.slidesharecdn.com/reprographicstudents-110704135645-phpapp01/95/reprographic-students-castellano-33-1024.jpg&size=contain
 
-@box[south-west text-center bg-black text-white box-wide-padding waved](**Vicent Llopis - Sagunto 2011**)
+@box[south-west text-center bg-black text-white box-wide-padding waved](**Vicent Llopis Cotaina <br> Sagunto 2011**)
 
 
 Note: 
 Encontré a Vicent Llopis, un profesor apasionado por sus alumnos. 
+
+---?image=
+
+Note: y empecé a probar a hacer cosas diferentes, como por ejemplo: poesia visual
 
 ---?image=assets/img/cotesbaixes.jpg&size=contain
 
