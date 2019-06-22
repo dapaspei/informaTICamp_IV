@@ -103,6 +103,8 @@ Simbiosis: yo tenía campo de pruebas y ellos alguien que les ayudara a
 
 @box[west span-30 text-center text-10 bg-blue text-white box-small-padding rounded](**(TRANS)FORMAR**)
 
+@box[east span-30 text-center text-10 bg-blue text-white box-small-padding rounded](**<a href="https://www.youtube.com/watch?v=nWecIwtN2ho" _target="_blank">[V = (c + h) * A]</a>**)
+
 
 Note: 
 transoformar a los profesores y alumnos.
