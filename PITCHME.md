@@ -134,9 +134,7 @@ Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
 ![Vomito](https://openmoji.org/data/color/618x618/1F92E.png)
 @snapend
 
-@box[east span-45 fragment bg-green box-wide-padding waved](Enseñar / Estudiar #  para:
-- APRENDER
-- MOTIVARSE, APASIONARSE, ESFORZARSE, TOMAR DECISIONES PROPIAS, ...)
+@box[east span-45 fragment bg-green box-wide-padding waved](Enseñar / Estudiar #  para: APRENDER, MOTIVARSE, APASIONARSE, ESFORZARSE, TOMAR DECISIONES PROPIAS, ...)
 
 Note: 
 Lo que se estudia se olvida.
@@ -146,10 +144,11 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 ---
 
 @snap[north]
-### Enseñar no es meter información a la gente, es extraer sus potencialidades (capacidades?)
+#### Enseñar no es meter información a la gente, es extraer sus potencialidades (capacidades?)
 @snapend
-@quote[]("Padre: ¿Esto es lo que le enseñas a mi hijo?)
-> "Toni Nadal: No, no ... esto es lo que él aprende.
+
+@quote[]("Padre: ¿Esto es lo que le enseñas a mi hijo? <br> "Toni Nadal: No, no ... esto es lo que él aprende)
+
 @snap[south-east] @size[02.em](https://www.youtube.com/watch?v=FXL2G1p-EDw) @endsnap
 
 Note: 
