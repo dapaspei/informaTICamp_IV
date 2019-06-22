@@ -105,6 +105,8 @@ Simbiosis: yo tenía campo de pruebas y ellos alguien que les ayudara a
 
 @box[east span-30 text-center text-10 bg-blue text-white box-small-padding rounded](**V = (c + h) * A**)
 
+@box[south-east span-10 text-center text-03 bg-blue text-white box-small-padding rounded](<a href="https://www.youtube.com/watch?v=nWecIwtN2ho" _target="_blank">Victor Küppers</a>)
+
 
 Note: 
 transoformar a los profesores y alumnos.
