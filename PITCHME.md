@@ -80,7 +80,7 @@ Nuevas formas de enseñar, novadors, búscate la vida.
 Note: 
 Encontré a Vicent Llopis, un profesor apasionado por sus alumnos. 
 
----?image=
+---?image=https://d.pr/i/pAOEHe
 
 Note: y empecé a probar a hacer cosas diferentes, como por ejemplo: poesia visual
 
