@@ -121,7 +121,7 @@ transoformar a los profesores y alumnos.
 @box[bg-blue text-white box-wide-padding waved](EL **_HACER_** nos ayuda a **transformar** la realidad) 
 @snapend
 
-@box[south-west span-20 text-center text-05 bg-white text-grey box-small-padding rounded](<a href="https://www.youtube.com/watch?v=TMCvPJI2uEU" _target="_blank">José Pomares</a>)
+@box[south-west span-20 text-left text-05 bg-white text-grey box-small-padding rounded](<a href="https://www.youtube.com/watch?v=TMCvPJI2uEU" _target="_blank">José Pomares</a>)
 
 Note: 
 Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
