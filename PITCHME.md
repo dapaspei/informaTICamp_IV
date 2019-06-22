@@ -159,7 +159,7 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 #### Enseñar no es meter información al alumnado, es extraer sus potencialidades y/o capacidades
 @snapend
 
-@quote[text-20]("Un Padre: ¿Esto es lo que le enseñas a mi hijo? <br> "Toni Nadal: No, no ... esto es lo que él aprende)
+@quote["Un Padre: ¿Esto es lo que le enseñas a mi hijo? <br> "Entrenador: No, no ... esto es lo que él aprende](Toni Nadal)
 
 @snap[south text-10]
 <a href="https://www.youtube.com/watch?v=FXL2G1p-EDw" _target="_blank">@img[span-20](https://i.ytimg.com/vi/CpejLEP-3Cs/maxresdefault.jpg)</a>
