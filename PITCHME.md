@@ -165,13 +165,9 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](¿Qué RETOS?)
 
 @box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](1º y 2º ESO)
-<!-- @box[fragment north span-30 bg-purple text-white box-small-padding rounded](exige pensar en la situación) -->
 @box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](3º ESO)
-<!-- @box[fragment west span-32 bg-purple text-white box-small-padding rounded](precisa la colaboración entre estudiantes)
-@box[fragment east span-32 bg-purple text-white box-small-padding rounded](está basado en conocimientos existentes) -->
-@box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](Crear una **página web**)
-<!-- @box[fragment south span-32 bg-purple text-white box-small-padding rounded](debe exigir búsqueda e interpretación de información) -->
-@box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](Crear una **máquina recreativa arcade**)
+@box[fragment south-west text-15 span-32 bg-purple text-white box-small-padding rounded](Crear una **página web**)
+@box[fragment south-east text-15 span-32 bg-purple text-white box-small-padding rounded](Crear una **máquina recreativa arcade**)
 
 ---
 
