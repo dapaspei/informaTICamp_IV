@@ -202,10 +202,13 @@ Note: ETAPAS DE UN RETO
 
 ---
 
+@box[midpoint span-20 bg-pink text-white box-wide-padding waved](ASIGNATURAS de 3º ESO)
+
+@box[fragment midpoint span-30 bg-gold text-white box-small-padding rounded](Proyecto interdisciplinar)
+@box[fragment north span-30 bg-purple text-white box-small-padding rounded](TECNO / TIC)
 @box[fragment west span-32 bg-purple text-white box-small-padding rounded](Religión / Cultura Clásica)
-@box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](Valores / Educación Física)
-@box[fragment south span-32 bg-purple text-white box-small-padding rounded](Tecno / TIC)
-@box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](Valencià / IAEE)
+@box[fragment east span-32 bg-purple text-white box-small-padding rounded](Valores / Educación Física)
+@box[fragment south span-32 bg-purple text-white box-small-padding rounded](Valencià / IAEE)
 
 ---
 
