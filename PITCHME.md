@@ -202,7 +202,7 @@ Note: ETAPAS DE UN RETO
 
 ---
 
-@box[midpoint span-26s bg-pink text-white box-wide-padding waved](ASIGNATURAS de 3º ESO)
+@box[midpoint span-26 bg-pink text-white box-wide-padding waved](ASIGNATURAS de 3º ESO)
 
 @box[fragment midpoint span-30 bg-gold text-white box-small-padding rounded](Proyecto interdisciplinar)
 @box[fragment north span-30 bg-purple text-white box-small-padding rounded](TECNO / TIC)
