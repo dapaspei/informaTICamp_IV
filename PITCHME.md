@@ -171,6 +171,19 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---
 
+@box[midpoint span-20 bg-pink text-white box-wide-padding waved](RETO 1º y 2º ESO)
+
+@box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](Bloque de 2h / 18h de duración)
+@box[fragment north span-30 bg-purple text-white box-small-padding rounded](Un profesor y 20 alumnos)
+@box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](Tres equipos)
+<!-- @box[fragment west span-32 bg-purple text-white box-small-padding rounded](18h de duración en el tercer trimestre)
+@box[fragment east span-32 bg-purple text-white box-small-padding rounded](tres equipos) -->
+@box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](Diseñadores: estrucutra web, menús y logotipos)
+@box[fragment south span-32 bg-purple text-white box-small-padding rounded](Multimedia: videos de entrevistas a profesores y alumnos)
+@box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](Publicistas: diseño de textos y material web)
+
+---
+
 # ¿Qué actividades?
 
 ---
