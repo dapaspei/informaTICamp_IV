@@ -162,14 +162,19 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---?image=assets/img/etapas.png&size=contain
 
+@snap[south-west text-10]
+<a href="https://ethazi.tknika.eus/es/retos/" _target="_blank">@img[span-15](https://ethazi.tknika.eus/wp-content/uploads/sites/29/2018/06/erronka_baten_garapena_11_pausoak.jpg
+)</a>
+@snapend
+
 Note: etapas del reto
 ---
 
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](¿Qué RETOS?)
 
 @box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](1º y 2º ESO)
-@box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](3º ESO)
 @box[fragment south-west text-15 span-32 bg-purple text-white box-small-padding rounded](Crear una **_página web_**)
+@box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](3º ESO)
 @box[fragment south-east text-15 span-32 bg-purple text-white box-small-padding rounded](Crear una **_máquina recreativa arcade_**)
 
 ---
