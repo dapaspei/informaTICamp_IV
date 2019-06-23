@@ -166,8 +166,8 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 @box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](1º y 2º ESO)
 @box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](3º ESO)
-@box[fragment south-west text-15 span-32 bg-purple text-white box-small-padding rounded](Crear una **página web**)
-@box[fragment south-east text-15 span-32 bg-purple text-white box-small-padding rounded](Crear una **máquina recreativa arcade**)
+@box[fragment south-west text-15 span-32 bg-purple text-white box-small-padding rounded](Crear una **_página web_**)
+@box[fragment south-east text-15 span-32 bg-purple text-white box-small-padding rounded](Crear una **_máquina recreativa arcade_**)
 
 ---
 
