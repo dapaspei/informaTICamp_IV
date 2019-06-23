@@ -197,7 +197,7 @@ Note: ETAPAS DE UN RETO
 
 @box[fragment west span-32 bg-purple text-white box-small-padding rounded](Portavoz/a)
 @box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](Coordinador/a)
-@box[fragment south span-32 bg-purple text-white box-small-padding rounded](Secretario/a)
+@box[fragment east span-32 bg-purple text-white box-small-padding rounded](Secretario/a)
 @box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](Encargado/a del material)
 
 ---
