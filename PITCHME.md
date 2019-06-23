@@ -160,6 +160,9 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 @box[fragment south span-32 bg-purple text-white box-small-padding rounded](debe exigir búsqueda e interpretación de información)
 @box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](debe proporcionar **_conocimiento_** al solucionarlo)
 
+---?image=assets/img/etapas.png&size=contain
+
+Note: etapas del reto
 ---
 
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](¿Qué RETOS?)
