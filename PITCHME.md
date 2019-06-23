@@ -166,7 +166,7 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 <a href="https://ethazi.tknika.eus/es/retos/" _target="_blank">@img[span-15](https://ethazi.tknika.eus/wp-content/uploads/sites/29/2018/06/erronka_baten_garapena_11_pausoak.jpg)</a>
 @snapend
 
-Note: etapas del reto
+Note: ETAPAS DE UN RETO
 ---
 
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](¿Qué RETOS?)
@@ -178,15 +178,27 @@ Note: etapas del reto
 
 ---
 
-@box[midpoint span-20 bg-pink text-white box-wide-padding waved](RETO 1º y 2º ESO)
+@box[midpoint span-20 bg-pink text-white box-wide-padding waved](RETO de 1º y 2º ESO)
 
 @box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](Bloque de 2h / 18h de duración)
 @box[fragment north span-30 bg-purple text-white box-small-padding rounded](Un profesor y 20 alumnos)
 @box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](Tres equipos)
 
-@box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](Diseñadores: estrucutra web, menús y logotipos)
 @box[fragment south span-32 bg-purple text-white box-small-padding rounded](Multimedia: videos de entrevistas a profesores y alumnos)
+@box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](Diseñadores: estrucutra web, menús y logotipos)
 @box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](Publicistas: diseño de textos y material web)
+
+---
+@box[midpoint span-20 bg-pink text-white box-wide-padding waved](RETO de 3º ESO)
+
+@box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](3 x Bloques de 2h / 66h de duración)
+@box[fragment north span-30 bg-purple text-white box-small-padding rounded](Dos profesores y 16 alumnos)
+@box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](4 equipos)
+
+@box[fragment west span-32 bg-purple text-white box-small-padding rounded](Social / Cultura Clásica)
+@box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](Valores / Educación Física)
+@box[fragment south span-32 bg-purple text-white box-small-padding rounded](Tecno / TIC)
+@box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](Valencià / IAEE)
 
 ---
 
