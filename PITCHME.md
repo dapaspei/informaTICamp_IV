@@ -180,9 +180,9 @@ Note: ETAPAS DE UN RETO
 
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](RETO de 1º y 2º ESO)
 
-@box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](Bloque de 2h / 18h de duración)
+@box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](Bloques de 2h / 18h de duración)
 @box[fragment north span-30 bg-purple text-white box-small-padding rounded](Un profesor y 20 alumnos)
-@box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](Tres equipos)
+@box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](Divididos en 3 equipos)
 
 @box[fragment south span-32 bg-purple text-white box-small-padding rounded](Multimedia: videos de entrevistas a profesores y alumnos)
 @box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](Diseñadores: estrucutra web, menús y logotipos)
@@ -193,9 +193,16 @@ Note: ETAPAS DE UN RETO
 
 @box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](3 x Bloques de 2h / 66h de duración)
 @box[fragment north span-30 bg-purple text-white box-small-padding rounded](Dos profesores y 16 alumnos)
-@box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](4 equipos)
+@box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](Divididos en 4 equipos con 4 roles)
 
-@box[fragment west span-32 bg-purple text-white box-small-padding rounded](Social / Cultura Clásica)
+@box[fragment west span-32 bg-purple text-white box-small-padding rounded](Portavoz/a)
+@box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](Coordinador/a)
+@box[fragment south span-32 bg-purple text-white box-small-padding rounded](Secretario/a)
+@box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](Encargado/a del material)
+
+---
+
+@box[fragment west span-32 bg-purple text-white box-small-padding rounded](Religión / Cultura Clásica)
 @box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](Valores / Educación Física)
 @box[fragment south span-32 bg-purple text-white box-small-padding rounded](Tecno / TIC)
 @box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](Valencià / IAEE)
