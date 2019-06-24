@@ -22,7 +22,7 @@
 
 @snap[midpoint list-content-concise span-80]
 @ul
-- Por vuestra atención.@endsnap
+- Por vuestra atención.
 - Por dejarme hacer 3 presentaciones.
 - Por ser del 5% de profesores que ...
 - ... vienen a formarse en junio/julio
