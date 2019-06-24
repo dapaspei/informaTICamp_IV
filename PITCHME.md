@@ -230,7 +230,7 @@ Note: trello
 
 ![MD - droplr](https://d.pr/v/fQiZbN)
 
-![Marketing Digital YT](https://youtu.be/oX6teMdmH_w)
+![Marketing Digital YT](https://www.youtube.com/embed/oX6teMdmH_w)
 
 
 
