@@ -355,6 +355,11 @@ Note: Evaluación
 
 ---?image=assets/img/transversales.png&size=contain
 
+@box[west span-32 bg-purple text-white box-small-padding rounded](1. ACTITUD)
+@box[east span-32 bg-purple text-white box-small-padding rounded](2. TRABAJO EN EQUIPO)
+@box[south-west span-32 bg-gold text-white box-small-padding rounded](3. RESOLUCIÓN DE PROBLEMAS)
+@box[south-east span-32 bg-gold text-white box-small-padding rounded](4. PLANIFICACIÓN Y/O ORGANIZACIÓN)
+
 ---?image=assets/img/trello3.1.png&size=contain
 
 @img[span-50 south-east](assets/img/etapas.png)
