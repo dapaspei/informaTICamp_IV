@@ -222,15 +222,13 @@ Note: trello
 
 ## Videos
 
-![Marketing Digital](https://cloud.danielpastor.pro/index.php/s/Py4pLog62wTBeZ2)
+![Marketing Digital YT](https://www.youtube.com/embed/oX6teMdmH_w) <br> Marketing Digital
 
-![Marketing Digital - Drive](https://drive.google.com/file/d/13SdKWlBJyqHHv7PDRW5iUV70eko_X3W9/view?usp=sharing)
+![Robótica](https://www.youtube.com/embed/UlixZeFt9m0) Robótica
 
-![MD NAS](https://danielpastor.pro:3369/mo/sharing/tJdjFl7eG)
+![Diseño de Apps](https://www.youtube.com/embed/) Diseño de Apps
 
-![MD - droplr](https://d.pr/v/fQiZbN)
-
-![Marketing Digital YT](https://www.youtube.com/embed/oX6teMdmH_w)
+![Finanzas Personales](https://www.youtube.com/embed/) Finanzas Personales
 
 
 
