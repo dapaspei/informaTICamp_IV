@@ -166,7 +166,7 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 <a href="https://ethazi.tknika.eus/es/retos/" _target="_blank">@img[span-15](https://ethazi.tknika.eus/wp-content/uploads/sites/29/2018/06/erronka_baten_garapena_11_pausoak.jpg)</a>
 <br><br>
 @snapend
-@box[south-west text-5](ethazi.tknika.eus)
+@box[south-west text-left text-2](ethazi.tknika.eus)
 
 Note: ETAPAS DE UN RETO
 ---
