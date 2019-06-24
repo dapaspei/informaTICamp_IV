@@ -250,42 +250,42 @@ Note: trello
   "labels": ["Profesorado","Comportamiento Grupo","Comportamiento Individual", GENERAL],
   "datasets": [
    {
-    "data":[8.89,7.23,9.11,8.81],
+    "data":[88, 72, 91, 88],
     "label":"Robótica",
     "backgroundColor":"rgba(20,20,220,.8)"
    },
    {
-    "data":[7.88,6.9,8.66,7.83],
+    "data":[78, 69, 86, 78],
     "label":"Apps",
     "backgroundColor":"rgba(120,120,220,.8)"
    },
    {
-    "data":[8.04, 7.30, 8.03, 8.6],
+    "data":[80, 73, 80, 86],
     "label":"Marketing Digital",
     "backgroundColor":"rgba(120,120,220,.8)"
    },
    {
-    "data":[8.09, 6.12, 9.12, 9.18],
+    "data":[81, 61, 91, 92],
     "label":"Nouvelle Cousine",
     "backgroundColor":"rgba(120,120,220,.8)"
    },
    {
-    "data":[7.75, 6.83, 7.91, 8.08],
+    "data":[77, 68, 79, 81],
     "label":"Huerto",
     "backgroundColor":"rgba(20,20,220,.8)"
    },
    {
-    "data":[8.85, 8.71, 7.07, 8.98],
+    "data":[89, 87, 71, 90],
     "label":"Finanzas",
     "backgroundColor":"rgba(120,120,220,.8)"
    },
    {
-    "data":[6.88, 7.11, 7.05, 8.03],
+    "data":[69, 71, 71, 80],
     "label":"Teatro",
     "backgroundColor":"rgba(20,20,220,.8)"
    },
    {
-    "data":[9.21, 6.05, 8.62, 9.13],
+    "data":[92, 61, 86, 91],
     "label":"Escaparatismo",
     "backgroundColor":"rgba(120,120,220,.8)"
    }
