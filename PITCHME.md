@@ -18,14 +18,15 @@
 ---
 
 ## Gracias
-
-snap[fragment]- Por vuestra atención.
-snap[fragment]- Por dejarme hacer 3 presentaciones.
-snap[fragment]- Por ser del 5% de profesores que ...
-snap[fragment] ... vienen a formarse en junio/julio
-snap[fragment] ... quieren dejar huella en su alumnado
-snap[fragment] ... no sois parte de un tribunal de oposiciones y por eso estáis aquí.
-
+@snap[north list-content-concise span-80]
+@ul[] (true)
+- Por vuestra atención.@endsnap
+- Por dejarme hacer 3 presentaciones.
+- Por ser del 5% de profesores que ...
+ ... vienen a formarse en junio/julio
+ ... quieren dejar huella en su alumnado
+ ... no sois parte de un tribunal de oposiciones y por eso estáis aquí.
+@ulend
 
 Note:
 Chiste del 5% de profesores que vienen a formarse y que hacen lo posible para dejar huella en su alumnado.
