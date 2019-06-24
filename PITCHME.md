@@ -237,7 +237,7 @@ Note: trello
 @snapend
 
 @snap[south-east text-center span-40]
-<a href="https://www.youtube.com/embed/8998QGCLZnY" target="_blank">Finanzas Personales <center>@fa[youtube fa-3x]</center>G</a>
+<a href="https://www.youtube.com/embed/8998QGCLZnY" target="_blank">Finanzas Personales <center>@fa[youtube fa-3x]</center></a>
 @snapend
 
 
