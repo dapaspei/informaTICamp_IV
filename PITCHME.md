@@ -220,7 +220,7 @@ Note: Evaluación
 
 ---?image=assets/img/maquinas.jpg&size=cover&opacity=20
 
-# ¿Qué actividades?
+## ¿Qué actividades?
 
 ---
 
