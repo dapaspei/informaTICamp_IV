@@ -221,8 +221,8 @@ Note: trello
 ---
 
 ## Videos
-@snap[north-west span-40]
-@fa[youtube center]
+@snap[north-west text-center span-40]
+@fa[youtube]
 <br>
 <a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital</a>
 
