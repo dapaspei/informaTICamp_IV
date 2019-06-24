@@ -402,12 +402,19 @@ Note: video, presentación y memoria
 ---
 @snap[nort text-center ]
 #### Análisis de sus opiniones
+@snapend
 
 - Que los profesores sugieran los videos que hay que ver para la programación de la raspberry pi.
 - Intentar solucionar els problemes de grup quant abans millor
 - donar una xicoteta clase de informatica o tecno
 - Ser més bona gent i ajudar-nos.
 - Tal volta que ens digues quines són les millors opcions per al nostre producte i quines són més beneficioses.
+
+--- 
+@snap[nort text-center ]
+#### Análisis de sus opiniones
+@snapend
+
 - Estar més pendents dels grups i els seus problemes, tindre en compte que treballen bé i que siguen el millor equip posible.
 - Presentar un video abans de fer les mesures al draftshigt i així saber nosaltres com dunciona
 - Fer els grups equilibrats
