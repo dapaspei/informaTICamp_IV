@@ -332,12 +332,11 @@ Note: trello
 @box[north-east span-30 bg-gold text-white box-small-padding rounded](Raspberry Pi 3b+)
 @box[west span-32 bg-purple text-white box-small-padding rounded](Joysticks / Mandos)
 @box[east span-32 bg-purple text-white box-small-padding rounded](Para personas mayores)
-@box[south-west span-32 bg-gold text-white box-small-padding rounded](Atractiva)
-@box[south-east span-32 bg-gold text-white box-small-padding rounded](Encuestas de satisfacción)
+@box[south-west span-32 bg-gold text-white box-small-padding rounded](Diseños atractivos)
+@box[south-east span-32 bg-gold text-white box-small-padding rounded](Con juegos arcade)
 
-@box[south span-2∫5 bg-white text-5 text-blue box-small-padding rounded](<a href="https://drive.google.com/file/d/1cQFoKi2YVfaS2fsBt6sJbTvQicg_kAL7/view?usp=sharing" target="_blank">Reto</a>)
+@box[south span-2∫5 bg-white text-5 text-blue box-small-padding rounded](<a href="https://drive.google.com/file/d/1kcZzGA2oMg-zLlFR4F_k3QqSWUp7winc/view?usp=sharing" target="_blank">Reto 3º</a>)
 
-https://drive.google.com/file/d/1kcZzGA2oMg-zLlFR4F_k3QqSWUp7winc/view?usp=sharing
 
 
 ---?image=assets/img/quiniela.png&size=contain
