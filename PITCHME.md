@@ -27,7 +27,7 @@
 - Por ser del 5% de profesores que ...
 - ... vienen a formarse en junio/julio
 - ... quieren dejar huella en su alumnado
-- ... no os ha tocado formar parte de un tribunal de oposición (por eso estáis aquí).
+- ... no os ha tocado formar parte de un tribunal de oposición.
 @ulend
 @snapend
 
