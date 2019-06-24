@@ -217,7 +217,7 @@ Note: ETAPAS DE UN RETO
 ---?image=assets/img/trello1.2.png&size=contain
 
 
-@img[span-20 south](assets/img/etapas.png)
+@img[span-30 south](assets/img/etapas.png)
 
 Note: trello 
 
