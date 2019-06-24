@@ -341,7 +341,7 @@ Note: Evaluación
 
 ---?image=assets/img/trello3.2.png&size=contain
 
-@img[span-50 south-west](assets/img/etapas.png)
+@img[span-40 south-west](assets/img/etapas.png)
 
 ---
 
