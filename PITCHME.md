@@ -16,16 +16,18 @@
 @snapend
 
 ---
-
+@snap[north]
 ## Gracias
-@snap[north list-content-concise span-80]
+@snapend
+
+@snap[midpoint list-content-concise span-80]
 @ul
 - Por vuestra atención.@endsnap
 - Por dejarme hacer 3 presentaciones.
 - Por ser del 5% de profesores que ...
- ... vienen a formarse en junio/julio
- ... quieren dejar huella en su alumnado
- ... no sois parte de un tribunal de oposiciones y por eso estáis aquí.
+- ... vienen a formarse en junio/julio
+- ... quieren dejar huella en su alumnado
+- ... no sois parte de un tribunal de oposiciones y por eso estáis aquí.
 @ulend
 @snapend
 
