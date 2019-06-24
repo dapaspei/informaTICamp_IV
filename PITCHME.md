@@ -228,6 +228,9 @@ Note: trello
 
 ![MD NAS](https://danielpastor.pro:3369/mo/sharing/tJdjFl7eG)
 
+![MD - droplr](https://d.pr/v/fQiZbN)
+
+![Marketing Digital YT](https://youtu.be/oX6teMdmH_w)
 
 
 
