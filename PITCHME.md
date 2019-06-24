@@ -351,6 +351,10 @@ Note: Evaluación
 @box[fragment west span-35 bg-purple text-white box-small-padding rounded](60% CONTENIDOS ESPECÍFICOS/TÉCNICOS)
 @box[fragment east span-35 bg-purple text-white box-small-padding rounded](40% CONTENIDOS TRANSVERSALES)
 
+---?image=assets/img/tecnicas.png&size=contain
+
+---?image=assets/img/transversales.png&size=contain
+
 ---?image=assets/img/trello3.1.png&size=contain
 
 @img[span-50 south-east](assets/img/etapas.png)
