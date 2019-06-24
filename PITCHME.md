@@ -164,6 +164,9 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 @snap[south-west text-10]
 <a href="https://ethazi.tknika.eus/es/retos/" _target="_blank">@img[span-15](https://ethazi.tknika.eus/wp-content/uploads/sites/29/2018/06/erronka_baten_garapena_11_pausoak.jpg)</a>
+<br>
+https://ethazi.tknika.eus/
+
 @snapend
 
 Note: ETAPAS DE UN RETO
@@ -181,7 +184,7 @@ Note: ETAPAS DE UN RETO
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](RETO de 1º y 2º ESO)
 
 @box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](Bloques de 2h / 18h de duración)
-@box[fragment north span-30 bg-purple text-white box-small-padding rounded](Un profesor y 20 alumnos)
+@box[fragment north span-30 bg-purple text-white box-small-padding rounded](Un profesor y 18 alumnos)
 @box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](Divididos en 3 equipos)
 
 @box[fragment south span-32 bg-purple text-white box-small-padding rounded](Multimedia: videos de entrevistas a profesores y alumnos)
@@ -209,6 +212,10 @@ Note: ETAPAS DE UN RETO
 @box[fragment west span-32 bg-purple text-white box-small-padding rounded](Religión / Cultura Clásica)
 @box[fragment east span-32 bg-purple text-white box-small-padding rounded](Valores / Educación Física)
 @box[fragment south span-32 bg-purple text-white box-small-padding rounded](Valencià / IAEE)
+
+---
+
+Note: Evaluación
 
 ---
 
