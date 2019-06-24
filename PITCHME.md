@@ -214,6 +214,8 @@ Note: ETAPAS DE UN RETO
 
 ---?image=assets/img/quiniela.png&size=contain
 
+@box[north-east span-20 bg-purple text-white box-small-padding waved](Quiniela)
+
 Note: Evaluación
 
 ---
