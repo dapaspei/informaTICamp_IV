@@ -243,11 +243,11 @@ Note: trello
 ---
 
 ## Encuestas 
-<canvas data-chart="line">
+<canvas data-chart="bar">
 <!--
 {
  "data": {
-  "labels": ["Profesorado","Comportamiento Grupo","Comportamiento Individual", GENERAL],
+  "labels": ["Profesorado","Comportamiento Grupo","Comportamiento Individual", "Valoración GENERAL"],
   "datasets": [
    {
     "data":[88, 72, 91, 88],
@@ -295,10 +295,6 @@ Note: trello
 }
 -->
 </canvas>
-
-
-
-
 
 ---
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](RETOS de 3º ESO)
