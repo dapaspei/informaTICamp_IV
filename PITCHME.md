@@ -19,7 +19,7 @@
 
 ## Gracias
 @snap[north list-content-concise span-80]
-@ul[] (true)
+@ul
 - Por vuestra atención.@endsnap
 - Por dejarme hacer 3 presentaciones.
 - Por ser del 5% de profesores que ...
