@@ -345,6 +345,10 @@ Note: Evaluación
 
 ---?image=https://trello-attachments.s3.amazonaws.com/5c10c68d00579343e8ff4ed2/5c5c0a4b8d8ed880834230b9/42e9f7b1bbc021920dbd684ececb5780/Mesures_DraftSight_pdf.pdf&size=contain
 
+@snap[north]
+## Draftsight
+@snapend
+
 ---
 
 ## ¿Resultados?
