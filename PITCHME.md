@@ -27,6 +27,7 @@
  ... quieren dejar huella en su alumnado
  ... no sois parte de un tribunal de oposiciones y por eso estáis aquí.
 @ulend
+@snapend
 
 Note:
 Chiste del 5% de profesores que vienen a formarse y que hacen lo posible para dejar huella en su alumnado.
