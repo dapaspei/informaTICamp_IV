@@ -223,6 +223,10 @@ Note: trello
 
 ---
 
+# ¿Resultados?
+
+---
+
 ## Encuestas 
 <canvas data-chart="bar">
 <!--
@@ -331,6 +335,17 @@ Note: Evaluación
 @box[fragment west span-35 bg-purple text-white box-small-padding rounded](60% CONTENIDOS ESPECÍFICOS/TÉCNICOS)
 @box[fragment east span-35 bg-purple text-white box-small-padding rounded](40% CONTENIDOS TRANSVERSALES)
 
+---?image=assets/img/trello3.1.png&size=contain
+
+@img[span-40 south](assets/img/etapas.png)
+
+---?image=assets/img/trello3.2.png&size=contain
+
+@img[span-40 south](assets/img/etapas.png)
+
+---
+
+# ¿Resultados?
 
 ---?image=assets/img/maquinas.jpg&size=contain
 
