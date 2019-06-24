@@ -216,8 +216,13 @@ Note: ETAPAS DE UN RETO
 
 ---?image=assets/img/trello1.2.png&size=contain
 
+Note: trello 
 
-Reto 1º
+---
+
+## Videos
+
+![Marketing Digital](https://cloud.danielpastor.pro/index.php/s/Py4pLog62wTBeZ2)
 
 
 ---
