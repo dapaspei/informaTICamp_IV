@@ -323,6 +323,23 @@ Note: trello
 @box[fragment east span-32 bg-purple text-white box-small-padding rounded](Valores / Educación Física)
 @box[fragment south span-32 bg-purple text-white box-small-padding rounded](Valencià / IAEE)
 
+
+---
+
+@box[midpoint span-26 bg-pink text-white box-wide-padding waved](¿Qué RETO para 3º?)
+
+@box[north-west span-30 bg-gold text-white box-small-padding rounded](Crear una máquina arcade)
+@box[north-east span-30 bg-gold text-white box-small-padding rounded](Raspberry Pi 3b+)
+@box[west span-32 bg-purple text-white box-small-padding rounded](Joysticks / Mandos)
+@box[east span-32 bg-purple text-white box-small-padding rounded](Para personas mayores)
+@box[south-west span-32 bg-gold text-white box-small-padding rounded](Atractiva)
+@box[south-east span-32 bg-gold text-white box-small-padding rounded](Encuestas de satisfacción)
+
+@box[south span-2∫5 bg-white text-5 text-blue box-small-padding rounded](<a href="https://drive.google.com/file/d/1cQFoKi2YVfaS2fsBt6sJbTvQicg_kAL7/view?usp=sharing" target="_blank">Reto</a>)
+
+https://drive.google.com/file/d/1kcZzGA2oMg-zLlFR4F_k3QqSWUp7winc/view?usp=sharing
+
+
 ---?image=assets/img/quiniela.png&size=contain
 <br><br>
 @box[east span-20 bg-purple text-white box-small-padding waved](Quiniela 1x2)
@@ -375,7 +392,11 @@ Note: 9 máquinas
 Note: video, presentación y memoria
 ---
 
-### Fallos (o propuestas de mejora ![Vomito](https://openmoji.org/data/color/618x618/1F92E.png) )
+## Análisis y Mejoras
+
+---
+
+
 
 ---
 
