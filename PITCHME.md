@@ -226,7 +226,9 @@ Note: trello
 
 ![Marketing Digital - Drive](https://drive.google.com/file/d/13SdKWlBJyqHHv7PDRW5iUV70eko_X3W9/view?usp=sharing)
 
-![MD NAS](https://danielpastor.pro:3369/mo/sharing/MmvjNofVo)
+![MD NAS](https://danielpastor.pro:3369/mo/sharing/tJdjFl7eG)
+
+
 
 
 ---
