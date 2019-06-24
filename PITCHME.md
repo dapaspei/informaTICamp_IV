@@ -223,25 +223,6 @@ Note: trello
 
 ---
 
-# Videos
-@snap[north-west text-center span-40]
-<a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital <center>@fa[youtube fa-3x]</center></a>
-@snapend
-
-@snap[north-east text-center span-40]
-<a href="https://www.youtube.com/embed/UlixZeFt9m0" target="_blank">Robótica <center>@fa[youtube fa-3x]</center></a>
-@snapend
-
-@snap[south-west text-center span-40]
-<a href="https://www.youtube.com/embed/g0vGEJP-8bc" target="_blank">Diseño de Apps <center>@fa[youtube fa-3x]</center></a>
-@snapend
-
-@snap[south-east text-center span-40]
-<a href="https://www.youtube.com/embed/8998QGCLZnY" target="_blank">Finanzas Personales <center>@fa[youtube fa-3x]</center></a>
-@snapend
-
----
-
 ## Encuestas 
 <canvas data-chart="bar">
 <!--
@@ -297,6 +278,26 @@ Note: trello
 </canvas>
 
 ---
+
+# Videos
+@snap[north-west text-center span-40]
+<a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital <center>@fa[youtube fa-3x]</center></a>
+@snapend
+
+@snap[north-east text-center span-40]
+<a href="https://www.youtube.com/embed/UlixZeFt9m0" target="_blank">Robótica <center>@fa[youtube fa-3x]</center></a>
+@snapend
+
+@snap[south-west text-center span-40]
+<a href="https://www.youtube.com/embed/g0vGEJP-8bc" target="_blank">Diseño de Apps <center>@fa[youtube fa-3x]</center></a>
+@snapend
+
+@snap[south-east text-center span-40]
+<a href="https://www.youtube.com/embed/8998QGCLZnY" target="_blank">Finanzas Personales <center>@fa[youtube fa-3x]</center></a>
+@snapend
+
+---
+
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](RETOS de 3º ESO)
 
 @box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](3 x Bloques de 2h / 66h de duración)
@@ -320,9 +321,16 @@ Note: trello
 
 ---?image=assets/img/quiniela.png&size=contain
 <br><br>
-@box[east span-20 bg-purple text-white box-small-padding waved](Quiniela)
+@box[east span-20 bg-purple text-white box-small-padding waved](Quiniela 1x2)
 
 Note: Evaluación
+
+---
+@box[midpoint span-26 bg-pink text-white box-wide-padding waved](EVALUACIÓN)
+
+@box[fragment west span-45 bg-purple text-white box-small-padding rounded](60% CONTENIDOS ESPECÍFICOS/TÉCNICOS)
+@box[fragment east span-45 bg-purple text-white box-small-padding rounded](40% CONTENIDOS TRANSVERSALES)
+
 
 ---?image=assets/img/maquinas.jpg&size=contain
 
