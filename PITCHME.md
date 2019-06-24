@@ -191,6 +191,20 @@ Note: ETAPAS DE UN RETO
 @box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](Publicistas: diseño de textos y material web)
 
 ---
+@box[midpoint span-26 bg-pink text-white box-wide-padding waved](ASIGNATURAS de 1º/2 ESO)
+
+@box[north-west span-30 bg-gold text-white box-small-padding rounded](Robótica)
+@box[north span-30 bg-purple text-white box-small-padding rounded](Diseño de Apps)
+@box[north-east span-30 bg-gold text-white box-small-padding rounded](Marketing Digital)
+@box[west span-32 bg-purple text-white box-small-padding rounded](Huerto)
+@box[east span-32 bg-purple text-white box-small-padding rounded](Finanzas)
+@box[south-west span-32 bg-gold text-white box-small-padding rounded](Nouvelle Cuisine)
+@box[south span-32 bg-purple text-white box-small-padding rounded](Teatro)
+@box[south-east span-32 bg-gold text-white box-small-padding rounded](Escaparatismo)
+
+
+
+---
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](RETO de 3º ESO)
 
 @box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](3 x Bloques de 2h / 66h de duración)
@@ -218,7 +232,7 @@ Note: ETAPAS DE UN RETO
 
 Note: Evaluación
 
----?image=assets/img/maquinas.jpg&size=contain&opacity=70
+---?image=assets/img/maquinas.jpg&size=contain
 
 ## ¿Qué actividades?
 
@@ -286,3 +300,80 @@ Anécdota de Toni Nadal en el TedxMalaga
 }
 -->
 </canvas>
+
+---
+Robótica:
+
+valoración al profesor; 8,89
+valoración al establecimiento; 8,35
+valoración al comportamiento grupal; 7,23
+valoración al comportamiento individual; 9,11
+valoración al trabajo grupal; 8,00
+valoración GENERAL de la optativa; 8,81
+
+Aplicaciones Móviles:
+
+valoración al profesor/ar; 7,88
+valoración al establecimiento; 8,22
+valoración al comportamiento grupal; 6,90
+valoración al comportamiento individual; 8,66
+valoración al trabajo grupal; 6,87
+valoración GENERAL de la optativa; 7,83
+
+Francés:
+
+valoración al profesor (más auxiliar); 8,09
+valoración al establecimiento; 6,87
+valoración al comportamiento grupal; 6,12
+valoración al comportamiento individual; 9,12
+valoración al trabajo grupal; 7,87
+valoración GENERAL de la optativa; 9,18
+
+Huerto:
+
+valoración al profesor; 7,75
+valoración al establecimiento; 7,08
+valoración al comportamiento grupal; 6,83
+valoración al comportamiento individual; 7,91
+valoración al trabajo grupal; 6,62
+valoración GENERAL de la optativa; 8,08
+
+Marketing Digital:
+
+valoración al profesor; 8,04
+valoración al establecimiento; 7,78
+valoración al comportamiento grupal; 7,30
+valoración al comportamiento individual; 8,03
+valoración al trabajo grupal; 814
+valoración GENERAL de la optativa; 8,60
+
+Finanzas Personales:
+
+valoración al profesor; 8,85
+valoración al establecimiento; 8
+valoración al comportamiento grupal; 8,71
+valoración al comportamiento individual; 7,07
+valoración al trabajo grupal; 8,14
+valoración GENERAL de la optativa; 8,98
+
+Teatro:
+
+valoración al profesor; 6,88
+valoración al establecimiento; 8,22
+valoración al comportamiento grupal; 7,11
+valoración al comportamiento individual; 7,05
+valoración al trabajo grupal; 7,44
+valoración GENERAL de la optativa; 8,03
+
+Escaparatismo:
+
+valoración al profesor; 9,21
+valoración al establecimiento; 8,13
+valoración al comportamiento grupal; 6,05
+valoración al comportamiento individual; 8,62
+valoración al trabajo grupal; 6,68
+valoración GENERAL de la optativa; 9,13
+
+
+
+
