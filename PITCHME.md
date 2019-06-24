@@ -372,12 +372,10 @@ Note: 9 máquinas
 <a href="https://cotesbaixes-my.sharepoint.com/:p:/g/personal/marcossanz_iescotesbaixes_org/EffiMam6AY1GrZlb0NQIJZkB3x3reiaI7acmUksGX6FcoA?e=7MVMbK" target="_blank">Presentación <center>@fa[file-powerpoint fa-3x]</center></a>
 @snapend
 
-
-
-Note: videos y presentación
+Note: video, presentación y memoria
 ---
 
-# Fallos (o propuestas de mejora ;) )
+# Fallos (o propuestas de mejora ![Vomito](https://openmoji.org/data/color/618x618/1F92E.png) )
 
 ---
 
