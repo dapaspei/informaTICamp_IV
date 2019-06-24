@@ -216,11 +216,14 @@ Note: ETAPAS DE UN RETO
 
 ---?image=assets/img/trello1.2.png&size=contain
 
+
+@img[span-15 south](assets/img/etapas.png)
+
 Note: trello 
 
 ---
 
-## Videos
+# Videos
 @snap[north-west text-center span-40]
 <a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital</a>
 <center>@fa[youtube fa-3x]</center>
