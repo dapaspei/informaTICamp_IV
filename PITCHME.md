@@ -227,17 +227,17 @@ Note: trello
 @snapend
 
 @snap[north-east text-center span-40]
-<a href="https://www.youtube.com/embed/UlixZeFt9m0" target="_blank">Marketing Digital</a>
+<a href="https://www.youtube.com/embed/UlixZeFt9m0" target="_blank">Robótica</a>
 <center>@fa[youtube fa-3x]</center>
 @snapend
 
 @snap[south-west text-center span-40]
-<a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital</a>
+<a href="https://www.youtube.com/embed/g0vGEJP-8bc" target="_blank">Diseño de Apps</a>
 <center>@fa[youtube fa-3x]</center>
 @snapend
 
 @snap[south-east text-center span-40]
-<a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital</a>
+<a href="https://www.youtube.com/embed/8998QGCLZnY" target="_blank">Finanzas Personales</a>
 <center>@fa[youtube fa-3x]</center>
 @snapend
 
