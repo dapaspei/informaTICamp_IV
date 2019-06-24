@@ -86,6 +86,8 @@ Encontré a Vicent Llopis, un profesor apasionado por sus alumnos.
 
 @box[north span-50 text-center text-10 bg-gold text-black box-small-padding waved](**BLACK OUT POEM**)
 
+@box[south-west text-center text-05 bg-black text-white box-wide-padding waved](**<a href="https://austinkleon.com" target="_blank">Austin Kleon</a> <br> Sagunto 2011**)
+
 
 Note: y empecé a probar a hacer cosas diferentes, como por ejemplo: poesia visual
 
@@ -139,8 +141,7 @@ Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
 @box[east span-45 fragment bg-green box-wide-padding waved](Enseñar / Estudiar # para APRENDER, MOTIVARSE, APASIONARSE, ESFORZARSE, TOMAR DECISIONES PROPIAS, ...)
 
 Note: 
-Lo que se estudia se olvida.
-Lo que queremos son buenos aprendices, no buenos estudiantes.
+Lo que se estudia se olvida. Lo que queremos son buenos aprendices, no buenos estudiantes.
 Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---
@@ -154,13 +155,13 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](Un RETO)
 
 @box[ north-west span-32 bg-gold text-white box-small-padding rounded](Es una situación real, cercana a quien la ha de resolver)
-@box[ north span-30 bg-purple text-white box-small-padding rounded](exige pensar en la situación)
-@box[ north-east span-32 bg-gold text-white box-small-padding rounded](es "borroso", con más de una solución)
-@box[ west span-32 bg-purple text-white box-small-padding rounded](precisa la colaboración entre estudiantes)
-@box[ east span-32 bg-purple text-white box-small-padding rounded](está basado en conocimientos existentes)
-@box[ south-west span-32 bg-gold text-white box-small-padding rounded](deber producir resultados evaluables)
-@box[ south span-32 bg-purple text-white box-small-padding rounded](debe exigir búsqueda e interpretación de información)
-@box[ south-east span-32 bg-gold text-white box-small-padding rounded](debe proporcionar **_conocimiento_** al solucionarlo)
+@box[fragment north span-30 bg-purple text-white box-small-padding rounded](exige pensar en la situación)
+@box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](es "borroso", con más de una solución)
+@box[fragment west span-32 bg-purple text-white box-small-padding rounded](precisa la colaboración entre estudiantes)
+@box[fragment east span-32 bg-purple text-white box-small-padding rounded](está basado en conocimientos existentes)
+@box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](deber producir resultados evaluables)
+@box[fragment south span-32 bg-purple text-white box-small-padding rounded](debe exigir búsqueda e interpretación de información)
+@box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](debe proporcionar **_conocimiento_** al solucionarlo)
 
 ---?image=assets/img/etapas.png&size=contain
 
@@ -171,6 +172,7 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 @box[south-west text-left text-2](ethazi.tknika.eus)
 
 Note: ETAPAS DE UN RETO
+
 ---
 
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](¿Qué RETOS?)
@@ -306,17 +308,11 @@ Note: trello
 
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](RETOS de 3º ESO)
 
-@box[fragment north-west span-32 bg-gold text-white box-small-padding rounded](3 x Bloques de 2h / 66h de duración)
-@box[fragment north span-30 bg-purple text-white box-small-padding rounded](Dos profesores y 16 alumnos)
-@box[fragment north-east span-32 bg-gold text-white box-small-padding rounded](Divididos en 4 equipos con 4 roles)
-
-@box[fragment west span-32 bg-purple text-white box-small-padding rounded](Portavoz/a)
-@box[fragment south-west span-32 bg-gold text-white box-small-padding rounded](Coordinador/a)
-@box[fragment east span-32 bg-purple text-white box-small-padding rounded](Secretario/a)
-@box[fragment south-east span-32 bg-gold text-white box-small-padding rounded](Encargado/a del material)
+@box[fragment north span-32 bg-gold text-white box-small-padding rounded](3 x Bloques de 2h / 66h de duración)
+@box[fragment west span-30 bg-purple text-white box-small-padding rounded](Dos profesores y 16 alumnos)
+@box[fragment east span-32 bg-gold text-white box-small-padding rounded](Divididos en 4 equipos )
 
 ---
-
 @box[midpoint span-26 bg-pink text-white box-wide-padding waved](ASIGNATURAS de 3º ESO)
 
 @box[fragment midpoint span-30 bg-gold text-white box-small-padding rounded](Proyecto interdisciplinar)
@@ -325,9 +321,7 @@ Note: trello
 @box[fragment east span-32 bg-purple text-white box-small-padding rounded](Valores / Educación Física)
 @box[fragment south span-32 bg-purple text-white box-small-padding rounded](Valencià / IAEE)
 
-
 ---
-
 @box[midpoint span-26 bg-pink text-white box-wide-padding waved](¿Qué RETO para 3º?)
 
 @box[north-west span-30 bg-gold text-white box-small-padding rounded](Crear una máquina arcade)
@@ -339,8 +333,6 @@ Note: trello
 
 @box[south span-2∫5 bg-white text-5 text-blue box-small-padding rounded](<a href="https://drive.google.com/file/d/1kcZzGA2oMg-zLlFR4F_k3QqSWUp7winc/view?usp=sharing" target="_blank">Reto 3º</a>)
 
-
-
 ---?image=assets/img/quiniela.png&size=contain
 <br><br>
 @box[east span-20 bg-purple text-white box-small-padding waved](Quiniela 1x2)
@@ -350,7 +342,7 @@ Note: Evaluación
 ---
 @box[midpoint span-26 bg-pink text-white box-wide-padding waved](EVALUACIÓN)
 
-@box[fragment west span-35 bg-purple text-white box-small-padding rounded](60% CONTENIDOS ESPECÍFICOS/TÉCNICOS)
+@box[fragment west span-35 bg-purple text-white box-small-padding rounded](60% CONTENIDOS ESPECÍFICOS / TÉCNICOS)
 @box[fragment east span-35 bg-purple text-white box-small-padding rounded](40% CONTENIDOS TRANSVERSALES)
 
 ---?image=assets/img/tecnicas.png&size=contain
@@ -379,20 +371,18 @@ Note: Evaluación
 ---
 
 ## ¿Resultados?
-
 ---?image=assets/img/maquinas.jpg&size=contain
 
 Note: 9 máquinas
 
 ---
-
 ## Resultados
 @snap[north-west text-center span-40]
 <a href="https://trello-attachments.s3.amazonaws.com/5c10c68d00579343e8ff4ed2/5c10c68d00579343e8ff4edd/4e2fb3d3d85a51fdad98a4df56528d62/MEMORIA_REPTE-1.pdf" target="_blank">Memoria <center>@fa[file-alt fa-3x]</center></a>
 @snapend
 
 @snap[south text-center span-40]
-<a href="https://youtu.be/ChqhlNKlxwo" target="_blank">Video <center>@fa[youtube fa-3x]</center></a>
+<a href="https://www.youtube.com/watch?v=VfJ-YXbatG0" target="_blank">Video <center>@fa[youtube fa-3x]</center></a>
 @snapend
 
 @snap[north-east text-center span-40]
@@ -424,7 +414,6 @@ Note: video, presentación y memoria
 
 
 ---
-
 @snap[middlepoint]
 ## Educar no es meter información al alumnado, es extraer sus potencialidades y/o capacidades
 @snapend
