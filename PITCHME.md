@@ -10,6 +10,8 @@
 @snap[south-east text-center text-03]
 ![Logo Cefire](http://mestreacasa.gva.es/image/layout_set_logo?img_id=500003437543&t=1561102791500)
 <br>
+25 Junio 2019 - CEFIRE de Castellón
+<br>
 [Jornades InformaTICamp IV](http://mestreacasa.gva.es/web/cefirecastello/jornades/informaticamp_iv)
 @snapend
 
