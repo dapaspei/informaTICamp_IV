@@ -43,10 +43,10 @@ Chiste del 5% de profesores que vienen a formarse y que hacen lo posible para de
 
 @snap[south-west list-content-concise span-60]
 @ul[](false)
-- @size[0.7em](Todo lo que vas a ver y oír es fruto de la propia experiencia del que habla.)
-- @size[0.7em](Si hay algo que entiendes, será que no lo sé explicar bien.)
-- @size[0.7em](Lo que voy a decir/mostrar, no tiene por qué funcionarte a tí, ¿o si?)
-- @size[0.7em](No intentes hacerlo sin la ayuda de un compañer@.)
+- @size[0.8em](Todo lo que vas a ver y oír es fruto de la propia experiencia del que habla.)
+- @size[0.8em](Si hay algo que entiendes, será que no lo sé explicar bien.)
+- @size[0.8em](Lo que voy a decir/mostrar, no tiene por qué funcionarte a tí, ¿o si?)
+- @size[0.8em](No intentes hacerlo sin la ayuda de un compañer@.)
 @ulend
 <br><br>
 @snapend
