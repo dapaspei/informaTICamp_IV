@@ -404,10 +404,10 @@ Note: video, presentación y memoria
 ## Sus opiniones
 @snapend
 
-- Que los profesores sugieran los videos que hay que ver para la programación de la raspberry pi.
+- Que los profesores sugieran los videos que hay que ver para la programación de la raspberry pi
 - Intentar solucionar els problemes de grup quant abans millor
 - donar una xicoteta clase de informatica o tecno
-- Ser més bona gent i ajudar-nos.
+- Ser més bona gent i ajudar-nos
 - Tal volta que ens digues quines són les millors opcions per al nostre producte i quines són més beneficioses.
 
 --- 
@@ -424,7 +424,7 @@ Note: video, presentación y memoria
 ---
 
 @snap[middlepoint]
-## Enseñar no es meter información al alumnado, es extraer sus potencialidades y/o capacidades
+## Educar no es meter información al alumnado, es extraer sus potencialidades y/o capacidades
 @snapend
 
 ---
@@ -432,54 +432,20 @@ Note: video, presentación y memoria
 @quote["Un Padre: ¿Esto es lo que le enseñas a mi hijo? <br><br> "Entrenador: No, no. Esto es lo que ÉL APRENDE!](Toni Nadal)
 
 @snap[south text-10]
-<a href="https://www.youtube.com/watch?v=FXL2G1p-EDw" _target="_blank">@img[span-20](https://i.ytimg.com/vi/CpejLEP-3Cs/maxresdefault.jpg)</a>
+<a href="https://www.youtube.com/watch?v=FXL2G1p-EDw" _target="_blank">@img[span-30](https://i.ytimg.com/vi/CpejLEP-3Cs/maxresdefault.jpg)</a>
 @snapend
 
 Note: 
 Anécdota de Toni Nadal en el TedxMalaga
 
----
-@snap[north-center]# Imágenes y reconociminetos @snapend
+---?image=https://cdn.pixabay.com/photo/2017/11/12/13/37/curves-2942475_960_720.jpg&position=left&size=45% 100%
 
-@snap[] (false)
-- [Road](https://cdn.pixabay.com/photo/2017/11/12/13/37/curves-2942475_960_720.jpg)
-- [Disclaimer](https://pixabay.com/es/illustrations/seguridad-cibernética-1923446/)
-- [Bored](https://pixabay.com/photos/book-bored-college-education-15584/)
-- [Bored Too](https://pixabay.com/photos/school-bored-girl-education-3666924/)
-- [Pez Nemo](https://cdn.pixabay.com/photo/2017/05/01/18/23/clown-fish-2276193_960_720.jpg)
-- [Transformer](https://pixabay.com/es/photos/pequeños-juguete-figurilla-3871893/)
-- [Reto](https://www.tknika.eus/ethazi/wp-content/uploads/sites/29/2015/11/imagenreto_aldatuta.png)
+@title[Gracias]
+
+@snap[east span-50 text-center]
+# @color[#e49436](Gracias)
+#### por vuestra atención
+@dapaspei / dapaspei@gmail.com
 @snapend
-
----
-
-## El viaje 
-<canvas data-chart="bar">
-<!--
-{
- "data": {
-  "labels": ["Grupos ESO","Alumnado","Profesorado Implicado"],
-  "datasets": [
-   {
-    "data":[1,60,6],
-    "label":"Curso 15/16",
-    "backgroundColor":"rgba(20,20,220,.8)"
-   },
-   {
-    "data":[4,80,15],
-    "label":"Curso 16/17",
-    "backgroundColor":"rgba(120,120,220,.8)"
-   },
-   {
-    "data":[4,140,30],
-    "label":"Curso 17/18",
-    "backgroundColor":"rgba(120,120,220,.8)"
-   }
-  ]
- },
- "options": { "responsive": "true" }
-}
--->
-</canvas>
 
 
