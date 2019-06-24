@@ -222,7 +222,7 @@ Note: trello
 
 ## Videos
 @snap[north-west span-30]
-@fa[youtube]<a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital</a>
+@fa[youtube](<a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital</a>)
 @snapend
 
 <!-- ![Robótica](https://www.youtube.com/embed/UlixZeFt9m0) Robótica
