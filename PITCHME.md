@@ -224,6 +224,8 @@ Note: trello
 
 ![Marketing Digital](https://cloud.danielpastor.pro/index.php/s/Py4pLog62wTBeZ2)
 
+![Marketing Digital - Drive](https://drive.google.com/file/d/13SdKWlBJyqHHv7PDRW5iUV70eko_X3W9/view?usp=sharing)
+
 
 ---
 @box[midpoint span-20 bg-pink text-white box-wide-padding waved](RETOS de 3º ESO)
