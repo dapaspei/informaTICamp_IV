@@ -262,7 +262,7 @@ Note: trello
    {
     "data":[80, 73, 80, 86],
     "label":"Marketing Digital",
-    "backgroundColor":"rgba(120,120,220,.8)"
+    "backgroundColor":"pink"
    },
    {
     "data":[81, 61, 91, 92],
