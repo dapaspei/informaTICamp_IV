@@ -328,8 +328,8 @@ Note: Evaluación
 ---
 @box[midpoint span-26 bg-pink text-white box-wide-padding waved](EVALUACIÓN)
 
-@box[fragment west span-45 bg-purple text-white box-small-padding rounded](60% CONTENIDOS ESPECÍFICOS/TÉCNICOS)
-@box[fragment east span-45 bg-purple text-white box-small-padding rounded](40% CONTENIDOS TRANSVERSALES)
+@box[fragment west span-35 bg-purple text-white box-small-padding rounded](60% CONTENIDOS ESPECÍFICOS/TÉCNICOS)
+@box[fragment east span-35 bg-purple text-white box-small-padding rounded](40% CONTENIDOS TRANSVERSALES)
 
 
 ---?image=assets/img/maquinas.jpg&size=contain
