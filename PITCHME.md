@@ -441,6 +441,8 @@ Anécdota de Toni Nadal en el TedxMalaga
 <a href="https://www.twitter.com/dapaspei" target="_blank">@dapaspei</a> 
 <br>
 <a href="mailto:dapaspei@gmail.com" target="_blank">dapaspei@gmail.com</a>
+<br>
+https://gitpitch.com/dapaspei/informaticamp_iv
 @snapend
 @snapend
 
