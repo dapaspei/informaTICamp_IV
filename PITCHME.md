@@ -277,7 +277,7 @@ Note: trello
    {
     "data":[89, 87, 71, 90],
     "label":"Finanzas",
-    "backgroundColor":"yellow)"
+    "backgroundColor":"yellow"
    },
    {
     "data":[69, 71, 71, 80],
