@@ -445,9 +445,12 @@ Anécdota de Toni Nadal en el TedxMalaga
 @snap[east span-50 text-center]
 ## @color[#e49436](Gracias)
 ### por vuestra atención
+<br><br>
+@snap[text-10]
 Twitter: @dapaspei 
 <br>
 Email: dapaspei@gmail.com
+@snapend
 @snapend
 
 
