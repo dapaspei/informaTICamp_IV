@@ -222,16 +222,26 @@ Note: trello
 
 ## Videos
 @snap[north-west text-center span-40]
-<center>@fa[youtube fa-3x]</center>
 <a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital</a>
-
+<center>@fa[youtube fa-3x]</center>
 @snapend
 
-<!-- ![Robótica](https://www.youtube.com/embed/UlixZeFt9m0) Robótica
+@snap[north-east text-center span-40]
+<a href="https://www.youtube.com/embed/UlixZeFt9m0" target="_blank">Marketing Digital</a>
+<center>@fa[youtube fa-3x]</center>
+@snapend
 
-![Diseño de Apps](https://www.youtube.com/embed/) Diseño de Apps
+@snap[south-west text-center span-40]
+<a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital</a>
+<center>@fa[youtube fa-3x]</center>
+@snapend
 
-![Finanzas Personales](https://www.youtube.com/embed/) Finanzas Personales -->
+@snap[south-east text-center span-40]
+<a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital</a>
+<center>@fa[youtube fa-3x]</center>
+@snapend
+
+
 
 
 
