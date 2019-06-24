@@ -205,16 +205,16 @@ Note: ETAPAS DE UN RETO
 ---
 @box[midpoint span-26 bg-pink text-white box-wide-padding waved](¿Qué RETO para 1º/2º?)
 
-@box[north-west span-30 bg-gold text-white box-small-padding rounded](Diseñar/Crear una página web)
+@box[north-west span-30 bg-gold text-white box-small-padding rounded](Diseñar y Crear una página web)
 @box[north-east span-30 bg-gold text-white box-small-padding rounded](Diseñar logotipos)
 @box[west span-32 bg-purple text-white box-small-padding rounded](Escribir textos web)
-@box[east span-32 bg-purple text-white box-small-padding rounded](Grabar/Editar entrevistas)
+@box[east span-32 bg-purple text-white box-small-padding rounded](Grabar y Editar entrevistas)
 @box[south-west span-32 bg-gold text-white box-small-padding rounded](Atraer al público)
 @box[south-east span-32 bg-gold text-white box-small-padding rounded](Encuestas de satisfacción)
 
 @box[south span-15 bg-white text-5 text-blue box-small-padding rounded](<a href="https://drive.google.com/file/d/1cQFoKi2YVfaS2fsBt6sJbTvQicg_kAL7/view?usp=sharing" target="_blank">Reto</a>)
 
---- 
+---?image=assets/img/trello1.2.png&size=contain
 
 
 Reto 1º
