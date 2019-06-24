@@ -347,10 +347,9 @@ Note: Evaluación
 
 ## ¿Resultados?
 
----?image=assets/img/maquinas.jpg&size=contain
+---?image=assets/img/maquinas.jpg&size=cover
 
-## ¿Qué actividades?
-
+Note: 9 máquinas
 ---
 
 # Fallos (o propuestas de mejora ;) )
