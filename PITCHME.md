@@ -364,16 +364,12 @@ Note: 9 máquinas
 <a href="https://trello-attachments.s3.amazonaws.com/5c10c68d00579343e8ff4ed2/5c10c68d00579343e8ff4edd/4e2fb3d3d85a51fdad98a4df56528d62/MEMORIA_REPTE-1.pdf" target="_blank">Memoria <center>@fa[file-alt fa-3x]</center></a>
 @snapend
 
-@snap[north-east text-center span-40]
+@snap[south text-center span-40]
 <a href="https://youtu.be/ChqhlNKlxwo" target="_blank">Video <center>@fa[youtube fa-3x]</center></a>
 @snapend
 
-@snap[south-west text-center span-40]
+@snap[north-east text-center span-40]
 <a href="https://cotesbaixes-my.sharepoint.com/:p:/g/personal/marcossanz_iescotesbaixes_org/EffiMam6AY1GrZlb0NQIJZkB3x3reiaI7acmUksGX6FcoA?e=7MVMbK" target="_blank">Presentación <center>@fa[file-powerpoint fa-3x]</center></a>
-@snapend
-
-@snap[south-east text-center span-40]
-<a href="https://www.youtube.com/embed/8998QGCLZnY" target="_blank">Finanzas Personales <center>@fa[youtube fa-3x]</center></a>
 @snapend
 
 
