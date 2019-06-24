@@ -74,7 +74,7 @@ Nuevas formas de enseñar, novadors, búscate la vida.
 
 ---?image=https://image.slidesharecdn.com/reprographicstudents-110704135645-phpapp01/95/reprographic-students-castellano-33-1024.jpg&size=contain
 
-@box[south-west text-center bg-black text-white box-wide-padding waved](**<a href="https://www.slideshare.net/vicentllopis/reprographic-students" _target="_blank">Vicent Llopis Cotaina</a> <br> Sagunto 2011**)
+@box[south-west text-center bg-black text-white box-wide-padding waved](**<a href="https://www.slideshare.net/vicentllopis/reprographic-students" target="_blank">Vicent Llopis Cotaina</a> <br> Sagunto 2011**)
 
 
 Note: 
@@ -105,7 +105,7 @@ Simbiosis: yo tenía campo de pruebas y ellos alguien que les ayudara a
 
 @box[east span-30 text-center text-10 bg-blue text-white box-small-padding rounded](**V = (c + h) \* A**)
 
-@box[south span-10 text-left text-03 bg-white text-blue box-small-padding rounded](<a href="https://www.youtube.com/watch?v=nWecIwtN2ho" _target="_blank">Victor Küppers</a>)
+@box[south span-10 text-left text-03 bg-white text-blue box-small-padding rounded](<a href="https://www.youtube.com/watch?v=nWecIwtN2ho" target="_blank">Victor Küppers</a>)
 
 
 Note: 
@@ -121,7 +121,7 @@ transoformar a los profesores y alumnos.
 @box[bg-blue text-white box-wide-padding waved](EL **_HACER_** nos ayuda a **transformar** la realidad) 
 @snapend
 
-@box[south-west span-20 text-left text-05 bg-white text-grey box-small-padding rounded](<a href="https://www.youtube.com/watch?v=TMCvPJI2uEU" _target="_blank">José Pomares</a>)
+@box[south-west span-20 text-left text-05 bg-white text-grey box-small-padding rounded](<a href="https://www.youtube.com/watch?v=TMCvPJI2uEU" target="_blank">José Pomares</a>)
 
 Note: 
 Frase de José Pomares: https://www.youtube.com/watch?v=TMCvPJI2uEU
@@ -163,7 +163,7 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 ---?image=assets/img/etapas.png&size=contain
 
 @snap[south-west text-5]
-<a href="https://ethazi.tknika.eus/es/retos/" _target="_blank">@img[span-15](https://ethazi.tknika.eus/wp-content/uploads/sites/29/2018/06/erronka_baten_garapena_11_pausoak.jpg)</a>
+<a href="https://ethazi.tknika.eus/es/retos/" target="_blank">@img[span-15](https://ethazi.tknika.eus/wp-content/uploads/sites/29/2018/06/erronka_baten_garapena_11_pausoak.jpg)</a>
 <br><br>
 @snapend
 @box[south-west text-left text-2](ethazi.tknika.eus)
@@ -432,7 +432,7 @@ Note: video, presentación y memoria
 @quote["Un Padre: ¿Esto es lo que le enseñas a mi hijo? <br><br> "Entrenador: No, no. Esto es lo que ÉL APRENDE!](Toni Nadal)
 
 @snap[south text-10]
-<a href="https://www.youtube.com/watch?v=FXL2G1p-EDw" _target="_blank">@img[span-30](https://i.ytimg.com/vi/CpejLEP-3Cs/maxresdefault.jpg)</a>
+<a href="https://www.youtube.com/watch?v=FXL2G1p-EDw" target="_blank">@img[span-30](https://i.ytimg.com/vi/CpejLEP-3Cs/maxresdefault.jpg)</a>
 @snapend
 
 Note: 
@@ -447,9 +447,9 @@ Anécdota de Toni Nadal en el TedxMalaga
 ### por vuestra atención
 <br><br>
 @snap[text-10]
-Twitter: @dapaspei 
+<a href="https://www.twitter.com/dapaspei" target="_blank">@dapaspei</a> 
 <br>
-Email: dapaspei@gmail.com
+<a href="emailto:dapaspei@gmail.com" target="_blank">dapaspei@gmail.com</a>
 @snapend
 @snapend
 
