@@ -223,7 +223,7 @@ Note: trello
 
 ---
 
-# ¿Resultados?
+## ¿Resultados?
 
 ---
 
@@ -341,11 +341,11 @@ Note: Evaluación
 
 ---?image=assets/img/trello3.2.png&size=contain
 
-@img[span-35 south-west](assets/img/etapas.png)
+@img[span-45 south-west](assets/img/etapas.png)
 
 ---
 
-# ¿Resultados?
+## ¿Resultados?
 
 ---?image=assets/img/maquinas.jpg&size=contain
 
