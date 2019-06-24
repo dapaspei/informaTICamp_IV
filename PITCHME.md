@@ -3,7 +3,7 @@
 @title[Retos, un camino para mejorar las habilidades]
 
 @snap[east span-50 text-center]
-# @color[#e49436](Retos)
+## @color[#e49436](Retos)
 #### un camino para mejorar las habilidades
 @snapend
 
@@ -18,7 +18,7 @@
 ---?image=https://cdn.pixabay.com/photo/2016/12/21/17/39/cyber-security-1923446_960_720.png&position=right&size=35% auto
 
 @snap[north-west]
-# Disclaimer
+## Disclaimer
 @snapend
 
 @snap[south-west list-content-concise span-60]
@@ -33,7 +33,7 @@
 
 ---
 
-# Gracias
+## Gracias
 
 - Por vuestra atención
 - Por vuestros comentarios
@@ -47,7 +47,7 @@ Chiste del 5% de profesores que vienen a formarse y que hacen lo posible para de
 
 ---
 
-# Mi objetivo
+## Mi objetivo
 - Es explicar lo que hacemos en clase: mi/nuestras experiencias.
 - Es intentar apasionaros por y para hacer algo diferente.
 - No es ofreceros respuestas, sino generar más dudas y aumentar vuestra curiosidad.
@@ -145,7 +145,7 @@ Frase de José Pomares: https://youtu.be/TMCvPJI2uEU?t=674
 
 ---
 
-# ¿Cómo? 
+## ¿Cómo? 
 
 ### Con RETOS
 
@@ -285,7 +285,7 @@ Note: trello
 
 ---
 
-# Videos
+## Videos
 @snap[north-west text-center span-40]
 <a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital <center>@fa[youtube fa-3x]</center></a>
 @snapend
