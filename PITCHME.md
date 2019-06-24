@@ -443,7 +443,7 @@ Anécdota de Toni Nadal en el TedxMalaga
 <a href="mailto:dapaspei@gmail.com" target="_blank">dapaspei@gmail.com</a>
 <br>
 @snapend
-@snap[text-4] https://gitpitch.com/dapaspei/informaticamp_iv @snapend
+@snap[text-5] https://gitpitch.com/dapaspei/informaticamp_iv @snapend
 @snapend
 @snapend
 
