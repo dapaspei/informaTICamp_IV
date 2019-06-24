@@ -357,8 +357,8 @@ Note: Evaluación
 
 @box[west span-32 bg-purple text-white box-small-padding rounded](1. ACTITUD)
 @box[east span-32 bg-purple text-white box-small-padding rounded](2. TRABAJO EN EQUIPO)
-@box[south-west span-32 bg-gold text-white box-small-padding rounded](3. RESOLUCIÓN DE PROBLEMAS)
-@box[south-east span-32 bg-gold text-white box-small-padding rounded](4. PLANIFICACIÓN Y/O ORGANIZACIÓN)
+@box[south-west span-32 bg-purple text-white box-small-padding rounded](3. RESOLUCIÓN DE PROBLEMAS)
+@box[south-east span-32 bg-purple text-white box-small-padding rounded](4. PLANIFICACIÓN Y/O ORGANIZACIÓN)
 
 ---?image=assets/img/trello3.1.png&size=contain
 
@@ -398,12 +398,20 @@ Note: 9 máquinas
 @snapend
 
 Note: video, presentación y memoria
----
-
-## Análisis y Mejoras
 
 ---
+@snap[nort text-center ]
+#### Análisis de sus encuestas
 
+- Que los profesores sugieran los videos que hay que ver para la programación de la raspberry pi.
+- Intentar solucionar els problemes de grup quant abans millor
+- donar una xicoteta clase de informatica o tecno
+- Ser més bona gent i ajudar-nos.
+- Tal volta que ens digues quines són les millors opcions per al nostre producte i quines són més beneficioses.
+- Estar més pendents dels grups i els seus problemes, tindre en compte que treballen bé i que siguen el millor equip posible.
+- Presentar un video abans de fer les mesures al draftshigt i així saber nosaltres com dunciona
+- Fer els grups equilibrats
+- Que no pensen que els xiquets/xiquetes saben fer-ho tot sols
 
 
 ---
