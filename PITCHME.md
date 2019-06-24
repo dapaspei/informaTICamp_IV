@@ -375,7 +375,7 @@ Note: 9 máquinas
 Note: video, presentación y memoria
 ---
 
-# Fallos (o propuestas de mejora ![Vomito](https://openmoji.org/data/color/618x618/1F92E.png) )
+### Fallos (o propuestas de mejora ![Vomito](https://openmoji.org/data/color/618x618/1F92E.png) )
 
 ---
 
