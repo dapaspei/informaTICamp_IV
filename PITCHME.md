@@ -240,6 +240,62 @@ Note: trello
 <a href="https://www.youtube.com/embed/8998QGCLZnY" target="_blank">Finanzas Personales <center>@fa[youtube fa-3x]</center></a>
 @snapend
 
+---
+
+## Encuestas 
+<canvas data-chart="bar">
+<!--
+{
+ "data": {
+  "labels": ["Profesorado","Comportamiento Grupo","Comportamiento Individual", GENERAL],
+  "datasets": [
+   {
+    "data":[8.89,7.23,9.11,8.81],
+    "label":"Robótica",
+    "backgroundColor":"rgba(20,20,220,.8)"
+   },
+   {
+    "data":[7.88,6.9,8.66,7.83],
+    "label":"Apps",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   },
+   {
+    "data":[8.04, 7.30, 8.03, 8.6],
+    "label":"Marketing Digital",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   },
+   {
+    "data":[8.09, 6.12, 9.12, 9.18],
+    "label":"Nouvelle Cousine",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   },
+   {
+    "data":[7.75, 6.83, 7.91, 8.08],
+    "label":"Huerto",
+    "backgroundColor":"rgba(20,20,220,.8)"
+   },
+   {
+    "data":[8.85, 8.71, 7.07, 8.98],
+    "label":"Finanzas",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   },
+   {
+    "data":[6.88, 7.11, 7.05, 8.03],
+    "label":"Teatro",
+    "backgroundColor":"rgba(20,20,220,.8)"
+   },
+   {
+    "data":[9.21, 6.05, 8.62, 9.13],
+    "label":"Escaparatismo",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   }
+  ]
+ },
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+
 
 
 
@@ -340,80 +396,5 @@ Anécdota de Toni Nadal en el TedxMalaga
 }
 -->
 </canvas>
-
----
-Robótica:
-
-valoración al profesor; 8,89
-valoración al establecimiento; 8,35
-valoración al comportamiento grupal; 7,23
-valoración al comportamiento individual; 9,11
-valoración al trabajo grupal; 8,00
-valoración GENERAL de la optativa; 8,81
-
-Aplicaciones Móviles:
-
-valoración al profesor/ar; 7,88
-valoración al establecimiento; 8,22
-valoración al comportamiento grupal; 6,90
-valoración al comportamiento individual; 8,66
-valoración al trabajo grupal; 6,87
-valoración GENERAL de la optativa; 7,83
-
-Francés:
-
-valoración al profesor (más auxiliar); 8,09
-valoración al establecimiento; 6,87
-valoración al comportamiento grupal; 6,12
-valoración al comportamiento individual; 9,12
-valoración al trabajo grupal; 7,87
-valoración GENERAL de la optativa; 9,18
-
-Huerto:
-
-valoración al profesor; 7,75
-valoración al establecimiento; 7,08
-valoración al comportamiento grupal; 6,83
-valoración al comportamiento individual; 7,91
-valoración al trabajo grupal; 6,62
-valoración GENERAL de la optativa; 8,08
-
-Marketing Digital:
-
-valoración al profesor; 8,04
-valoración al establecimiento; 7,78
-valoración al comportamiento grupal; 7,30
-valoración al comportamiento individual; 8,03
-valoración al trabajo grupal; 814
-valoración GENERAL de la optativa; 8,60
-
-Finanzas Personales:
-
-valoración al profesor; 8,85
-valoración al establecimiento; 8
-valoración al comportamiento grupal; 8,71
-valoración al comportamiento individual; 7,07
-valoración al trabajo grupal; 8,14
-valoración GENERAL de la optativa; 8,98
-
-Teatro:
-
-valoración al profesor; 6,88
-valoración al establecimiento; 8,22
-valoración al comportamiento grupal; 7,11
-valoración al comportamiento individual; 7,05
-valoración al trabajo grupal; 7,44
-valoración GENERAL de la optativa; 8,03
-
-Escaparatismo:
-
-valoración al profesor; 9,21
-valoración al establecimiento; 8,13
-valoración al comportamiento grupal; 6,05
-valoración al comportamiento individual; 8,62
-valoración al trabajo grupal; 6,68
-valoración GENERAL de la optativa; 9,13
-
-
 
 
