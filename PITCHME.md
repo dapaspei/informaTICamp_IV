@@ -212,7 +212,7 @@ Note: ETAPAS DE UN RETO
 @box[fragment east span-32 bg-purple text-white box-small-padding rounded](Valores / Educación Física)
 @box[fragment south span-32 bg-purple text-white box-small-padding rounded](Valencià / IAEE)
 
----
+---?image=assets/img/quiniela.png&size=contain
 
 Note: Evaluación
 
