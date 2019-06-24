@@ -267,27 +267,27 @@ Note: trello
    {
     "data":[81, 61, 91, 92],
     "label":"Nouvelle Cousine",
-    "backgroundColor":"rgba(120,120,220,.8)"
+    "backgroundColor":"purple"
    },
    {
     "data":[77, 68, 79, 81],
     "label":"Huerto",
-    "backgroundColor":"rgba(20,20,220,.8)"
+    "backgroundColor":"green"
    },
    {
     "data":[89, 87, 71, 90],
     "label":"Finanzas",
-    "backgroundColor":"rgba(120,120,220,.8)"
+    "backgroundColor":"yellow)"
    },
    {
     "data":[69, 71, 71, 80],
     "label":"Teatro",
-    "backgroundColor":"rgba(20,20,220,.8)"
+    "backgroundColor":"grey"
    },
    {
     "data":[92, 61, 86, 91],
     "label":"Escaparatismo",
-    "backgroundColor":"rgba(120,120,220,.8)"
+    "backgroundColor":"orange"
    }
   ]
  },
