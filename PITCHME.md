@@ -401,7 +401,7 @@ Note: video, presentación y memoria
 
 ---
 @snap[nort text-center ]
-#### Análisis de sus encuestas
+#### Análisis de sus opiniones
 
 - Que los profesores sugieran los videos que hay que ver para la programación de la raspberry pi.
 - Intentar solucionar els problemes de grup quant abans millor
