@@ -218,7 +218,7 @@ Note: ETAPAS DE UN RETO
 
 Note: Evaluación
 
----?image=assets/img/maquinas.jpg%size=cover&opacity=20
+---?image=assets/img/maquinas.jpg&size=cover&opacity=20
 
 # ¿Qué actividades?
 
