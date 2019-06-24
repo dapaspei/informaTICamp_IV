@@ -15,6 +15,22 @@
 [Jornades InformaTICamp IV](http://mestreacasa.gva.es/web/cefirecastello/jornades/informaticamp_iv)
 @snapend
 
+---
+
+## Gracias
+
+snap[fragment]- Por vuestra atención.
+snap[fragment]- Por dejarme hacer 3 presentaciones.
+snap[fragment]- Por ser del 5% de profesores que ...
+snap[fragment] ... vienen a formarse en junio/julio
+snap[fragment] ... quieren dejar huella en su alumnado
+snap[fragment] ... no sois parte de un tribunal de oposiciones y por eso estáis aquí.
+
+
+Note:
+Chiste del 5% de profesores que vienen a formarse y que hacen lo posible para dejar huella en su alumnado.
+
+
 ---?image=https://cdn.pixabay.com/photo/2016/12/21/17/39/cyber-security-1923446_960_720.png&position=right&size=35% auto
 
 @snap[north-west]
@@ -30,20 +46,6 @@
 @ulend
 <br><br>
 @snapend
-
----
-
-## Gracias
-
-- Por vuestra atención
-- Por vuestros comentarios
-- Por ser del 5% de profesores que ...
-
-Note:
-Chiste del 5% de profesores que vienen a formarse y que hacen lo posible para dejar huella en su alumnado.
-- que dejan huella, ya que el 95% restante no 
-- quieren formarse para mejorar su práctica docente el curso que viene.
-- que se han librado de ser miembros de un tribunal de oposiciones
 
 ---
 
