@@ -222,13 +222,13 @@ Note: trello
 
 ## Videos
 
-![Marketing Digital YT](https://www.youtube.com/embed/oX6teMdmH_w) <br> Marketing Digital
+@fab[fa-youtube north-west span-30]<a href="https://www.youtube.com/embed/oX6teMdmH_w" target="_blank">Marketing Digital</a>
 
-![Robótica](https://www.youtube.com/embed/UlixZeFt9m0) Robótica
+<!-- ![Robótica](https://www.youtube.com/embed/UlixZeFt9m0) Robótica
 
 ![Diseño de Apps](https://www.youtube.com/embed/) Diseño de Apps
 
-![Finanzas Personales](https://www.youtube.com/embed/) Finanzas Personales
+![Finanzas Personales](https://www.youtube.com/embed/) Finanzas Personales -->
 
 
 
