@@ -213,7 +213,7 @@ Note: ETAPAS DE UN RETO
 @box[fragment south span-32 bg-purple text-white box-small-padding rounded](Valencià / IAEE)
 
 ---?image=assets/img/quiniela.png&size=contain
-
+<br><br>
 @box[north-east span-20 bg-purple text-white box-small-padding waved](Quiniela)
 
 Note: Evaluación
